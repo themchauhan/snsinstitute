@@ -1,0 +1,20 @@
+{
+  "name": "Arjun Sir",
+  "subject": "Reasoning",
+  "qualification": "HTET, CTET, REET",
+  "experience": "4+ years",
+  "photo": null,
+  "order": 7,
+  "leader": false,
+  "highlights": [],
+  "roleEn": "Reasoning Faculty",
+  "roleHi": "रीज़निंग शिक्षक",
+  "teaches": [
+    "Foundation",
+    "NTSE / Olympiad",
+    "CUET"
+  ],
+  "bioEn": "Arjun Sir teaches reasoning and mental ability with puzzles and shortcuts that sharpen logical thinking.",
+  "bioHi": "अर्जुन सर पहेलियों और शॉर्टकट्स के साथ रीज़निंग और मानसिक योग्यता पढ़ाते हैं।",
+  "active": true
+}

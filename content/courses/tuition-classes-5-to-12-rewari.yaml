@@ -1,0 +1,141 @@
+{
+  "titleEn": "Tuition for Class 5–12",
+  "titleHi": "कक्षा 5–12 ट्यूशन",
+  "order": 5,
+  "icon": "book",
+  "classesEn": "Class 5 to 12 (CBSE & HBSE)",
+  "classesHi": "कक्षा 5 से 12 (CBSE और HBSE)",
+  "durationEn": "Full academic year",
+  "durationHi": "पूरा शैक्षणिक वर्ष",
+  "summaryEn": "Subject-wise tuition for CBSE and HBSE students – Maths, Science, Physics, Chemistry, Biology and English – with board exam preparation.",
+  "summaryHi": "CBSE और HBSE छात्रों के लिए विषयवार ट्यूशन – गणित, विज्ञान, भौतिकी, रसायन, जीव विज्ञान और अंग्रेज़ी – बोर्ड परीक्षा की तैयारी के साथ।",
+  "highlights": [
+    {
+      "en": "CBSE & HBSE (Haryana Board) syllabus",
+      "hi": "CBSE और HBSE (हरियाणा बोर्ड) सिलेबस"
+    },
+    {
+      "en": "Class 10 & 12 board exam preparation",
+      "hi": "कक्षा 10 और 12 बोर्ड परीक्षा की तैयारी"
+    },
+    {
+      "en": "Previous year papers & sample papers",
+      "hi": "पिछले वर्ष के पेपर और सैंपल पेपर"
+    },
+    {
+      "en": "Hindi & English medium explanation",
+      "hi": "हिंदी और अंग्रेज़ी माध्यम में समझाना"
+    }
+  ],
+  "subjects": [
+    "Mathematics",
+    "Science",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "English"
+  ],
+  "fee": "Call for fee details",
+  "bodyEn": "## Tuition classes in Rewari for class 5 to 12\n\nWe teach students of **CBSE and HBSE (Haryana Board)** schools in Rewari. Each subject is taught by a specialised teacher, and the focus is on understanding plus scoring well in school and board exams.\n\n- Class 5–8: Maths, Science, English\n- Class 9–10: Maths, Science, English with board exam preparation\n- Class 11–12: Physics, Chemistry, Maths, Biology (Science stream)\n- Regular tests, previous year papers and sample papers\n",
+  "bodyHi": "## रेवाड़ी में कक्षा 5 से 12 की ट्यूशन\n\nहम रेवाड़ी के **CBSE और HBSE (हरियाणा बोर्ड)** स्कूलों के छात्रों को पढ़ाते हैं। हर विषय के लिए विशेषज्ञ शिक्षक हैं।\n\n- कक्षा 5–8: गणित, विज्ञान, अंग्रेज़ी\n- कक्षा 9–10: गणित, विज्ञान, अंग्रेज़ी – बोर्ड तैयारी सहित\n- कक्षा 11–12: भौतिकी, रसायन, गणित, जीव विज्ञान\n- नियमित टेस्ट, पिछले वर्ष के पेपर और सैंपल पेपर\n",
+  "seo": {
+    "title": "CBSE & HBSE Tuition for Class 5–12 in Rewari | SNS Institute",
+    "description": "Maths, Science, Physics, Chemistry, Biology and English tuition for class 5–12 (CBSE and HBSE) in Rewari, with board exam preparation and regular tests."
+  },
+  "image": null,
+  "whoFor": [
+    {
+      "en": "CBSE and HBSE students of class 5 to 12",
+      "hi": "कक्षा 5 से 12 के CBSE और HBSE छात्र"
+    },
+    {
+      "en": "Students who want better marks in school and board exams",
+      "hi": "स्कूल और बोर्ड परीक्षा में बेहतर अंक चाहने वाले छात्र"
+    },
+    {
+      "en": "Students who need help in specific subjects",
+      "hi": "किसी विशेष विषय में मदद चाहने वाले छात्र"
+    }
+  ],
+  "syllabus": [
+    {
+      "subject": "Class 5–8",
+      "topicsEn": "Mathematics\nScience\nEnglish\nNCERT / HBSE books",
+      "topicsHi": "गणित\nविज्ञान\nअंग्रेज़ी\nNCERT / HBSE किताबें"
+    },
+    {
+      "subject": "Class 9–10",
+      "topicsEn": "Mathematics\nScience\nEnglish\nBoard exam preparation\nSample papers",
+      "topicsHi": "गणित\nविज्ञान\nअंग्रेज़ी\nबोर्ड परीक्षा तैयारी\nसैंपल पेपर"
+    },
+    {
+      "subject": "Class 11–12",
+      "topicsEn": "Physics\nChemistry\nMathematics\nBiology\nPractical guidance\nBoard exam preparation",
+      "topicsHi": "भौतिकी\nरसायन\nगणित\nजीव विज्ञान\nप्रैक्टिकल मार्गदर्शन\nबोर्ड परीक्षा तैयारी"
+    }
+  ],
+  "features": [
+    {
+      "titleEn": "Printed study material",
+      "titleHi": "प्रिंटेड स्टडी मटेरियल",
+      "textEn": "Chapter-wise notes, formula sheets and practice questions prepared by our teachers.",
+      "textHi": "शिक्षकों द्वारा तैयार चैप्टर-वार नोट्स, फॉर्मूला शीट और प्रैक्टिस प्रश्न।"
+    },
+    {
+      "titleEn": "Weekly tests",
+      "titleHi": "साप्ताहिक टेस्ट",
+      "textEn": "Tests in the real exam pattern every week, followed by discussion of every mistake.",
+      "textHi": "हर हफ्ते असली परीक्षा पैटर्न पर टेस्ट, फिर हर गलती पर चर्चा।"
+    },
+    {
+      "titleEn": "Daily doubt sessions",
+      "titleHi": "रोज़ डाउट सेशन",
+      "textEn": "Ask any doubt after class – teachers are available every day.",
+      "textHi": "क्लास के बाद कोई भी डाउट पूछें – शिक्षक रोज़ उपलब्ध।"
+    },
+    {
+      "titleEn": "Progress reports for parents",
+      "titleHi": "अभिभावकों के लिए प्रगति रिपोर्ट",
+      "textEn": "Parents stay updated on test scores, attendance and areas to improve.",
+      "textHi": "टेस्ट स्कोर, उपस्थिति और सुधार के बिंदुओं की जानकारी।"
+    },
+    {
+      "titleEn": "Small batches",
+      "titleHi": "छोटे बैच",
+      "textEn": "Limited students per batch so every student gets attention.",
+      "textHi": "हर बैच में सीमित छात्र, ताकि सब पर ध्यान दिया जा सके।"
+    },
+    {
+      "titleEn": "Hindi + English teaching",
+      "titleHi": "हिंदी + अंग्रेज़ी में पढ़ाई",
+      "textEn": "Concepts explained in the language each student understands best.",
+      "textHi": "हर छात्र जिस भाषा में बेहतर समझे, उसमें समझाया जाता है।"
+    }
+  ],
+  "roadmap": [
+    {
+      "titleEn": "Chapter teaching",
+      "titleHi": "चैप्टर पढ़ाई",
+      "textEn": "Each chapter taught in line with the school timetable.",
+      "textHi": "स्कूल के समय-सारणी के अनुसार हर चैप्टर।"
+    },
+    {
+      "titleEn": "Practice & homework",
+      "titleHi": "अभ्यास और होमवर्क",
+      "textEn": "NCERT exercises and extra questions for every chapter.",
+      "textHi": "हर चैप्टर के NCERT अभ्यास और अतिरिक्त प्रश्न।"
+    },
+    {
+      "titleEn": "Unit tests",
+      "titleHi": "यूनिट टेस्ट",
+      "textEn": "Regular tests matching school exam patterns.",
+      "textHi": "स्कूल परीक्षा पैटर्न पर नियमित टेस्ट।"
+    },
+    {
+      "titleEn": "Board exam preparation",
+      "titleHi": "बोर्ड परीक्षा तैयारी",
+      "textEn": "Previous year papers, sample papers and revision.",
+      "textHi": "पिछले वर्ष के पेपर, सैंपल पेपर और रिवीज़न।"
+    }
+  ]
+}

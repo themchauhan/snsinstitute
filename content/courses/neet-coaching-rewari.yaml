@@ -1,0 +1,150 @@
+{
+  "titleEn": "NEET Coaching",
+  "titleHi": "NEET कोचिंग",
+  "order": 2,
+  "icon": "stethoscope",
+  "classesEn": "Class 11, 12 & repeaters",
+  "classesHi": "कक्षा 11, 12 और रिपीटर",
+  "durationEn": "1 year / 2 years",
+  "durationHi": "1 वर्ष / 2 वर्ष",
+  "summaryEn": "NCERT-focused NEET-UG preparation with Biology, Physics and Chemistry experts, regular mock tests and a repeater batch.",
+  "summaryHi": "जीव विज्ञान, भौतिकी और रसायन विशेषज्ञों के साथ NCERT आधारित NEET-UG तैयारी, मॉक टेस्ट और रिपीटर बैच।",
+  "highlights": [
+    {
+      "en": "NCERT line-by-line Biology",
+      "hi": "NCERT जीव विज्ञान लाइन-बाय-लाइन"
+    },
+    {
+      "en": "Weekly NEET-pattern tests (OMR)",
+      "hi": "NEET पैटर्न पर साप्ताहिक टेस्ट (OMR)"
+    },
+    {
+      "en": "Physics numericals made easy",
+      "hi": "भौतिकी के न्यूमेरिकल आसान तरीके से"
+    },
+    {
+      "en": "Repeater batch available",
+      "hi": "रिपीटर बैच उपलब्ध"
+    },
+    {
+      "en": "Board exam preparation alongside",
+      "hi": "साथ में बोर्ड परीक्षा की तैयारी"
+    },
+    {
+      "en": "Personal mentoring & progress reports",
+      "hi": "व्यक्तिगत मेंटरिंग और प्रगति रिपोर्ट"
+    }
+  ],
+  "subjects": [
+    "Biology",
+    "Physics",
+    "Chemistry"
+  ],
+  "fee": "Call for fee details",
+  "bodyEn": "## NEET coaching in Rewari\n\nOur NEET programme is built around **NCERT**, because most NEET-UG questions come directly from it. Biology, Physics and Chemistry are taught by separate subject experts.\n\n### What the programme includes\n\n- Complete NEET-UG syllabus with NCERT focus\n- Weekly tests on OMR sheets in the real NEET pattern\n- Full-length mock tests before the exam\n- Special repeater (dropper) batch\n- Board exam preparation alongside NEET\n\n",
+  "bodyHi": "## रेवाड़ी में NEET कोचिंग\n\nहमारा NEET प्रोग्राम **NCERT** पर आधारित है, क्योंकि NEET-UG के ज़्यादातर प्रश्न सीधे NCERT से आते हैं। जीव विज्ञान, भौतिकी और रसायन के अलग विशेषज्ञ शिक्षक हैं।\n\n### प्रोग्राम में क्या मिलता है\n\n- NCERT पर फोकस के साथ पूरा NEET-UG सिलेबस\n- असली NEET पैटर्न पर OMR शीट से साप्ताहिक टेस्ट\n- परीक्षा से पहले फुल-लेंथ मॉक टेस्ट\n- रिपीटर (ड्रॉपर) बैच\n- साथ में बोर्ड परीक्षा की तैयारी\n",
+  "seo": {
+    "title": "NEET Coaching in Rewari | Class 11, 12 & Repeater Batch – SNS",
+    "description": "NEET-UG coaching in Rewari with Biology, Physics and Chemistry experts, NCERT-focused tests and a repeater batch. Visit us on Narnaul Road. Free demo class."
+  },
+  "image": null,
+  "whoFor": [
+    {
+      "en": "Class 11 & 12 students who want to become doctors",
+      "hi": "डॉक्टर बनने का सपना रखने वाले कक्षा 11 और 12 के छात्र"
+    },
+    {
+      "en": "NEET repeaters who want to improve their rank",
+      "hi": "अपनी रैंक सुधारना चाहने वाले NEET रिपीटर"
+    },
+    {
+      "en": "Students aiming for MBBS, BDS, BAMS, BHMS or nursing",
+      "hi": "MBBS, BDS, BAMS, BHMS या नर्सिंग का लक्ष्य रखने वाले छात्र"
+    },
+    {
+      "en": "Students who want NCERT-focused, test-based preparation",
+      "hi": "NCERT आधारित, टेस्ट-केंद्रित तैयारी चाहने वाले छात्र"
+    }
+  ],
+  "syllabus": [
+    {
+      "subject": "Biology",
+      "topicsEn": "Diversity in Living World\nStructural Organisation\nCell Structure & Function\nPlant Physiology\nHuman Physiology\nReproduction\nGenetics & Evolution\nBiology & Human Welfare\nBiotechnology\nEcology & Environment",
+      "topicsHi": ""
+    },
+    {
+      "subject": "Physics",
+      "topicsEn": "Units & Measurements\nKinematics\nLaws of Motion\nWork, Energy & Power\nRotational Motion\nGravitation\nThermodynamics\nOscillations & Waves\nElectrostatics\nCurrent Electricity\nMagnetism\nEMI & AC\nOptics\nModern Physics\nSemiconductors",
+      "topicsHi": ""
+    },
+    {
+      "subject": "Chemistry",
+      "topicsEn": "Mole Concept\nAtomic Structure\nChemical Bonding\nThermodynamics\nEquilibrium\nRedox & Electrochemistry\nChemical Kinetics\nSolutions\nPeriodic Table\np-, d- & f-Block Elements\nCoordination Compounds\nGeneral Organic Chemistry\nHydrocarbons\nHaloalkanes & Haloarenes\nAlcohols, Phenols & Ethers\nAldehydes, Ketones & Acids\nAmines\nBiomolecules",
+      "topicsHi": ""
+    }
+  ],
+  "features": [
+    {
+      "titleEn": "Printed study material",
+      "titleHi": "प्रिंटेड स्टडी मटेरियल",
+      "textEn": "Chapter-wise notes, formula sheets and practice questions prepared by our teachers.",
+      "textHi": "शिक्षकों द्वारा तैयार चैप्टर-वार नोट्स, फॉर्मूला शीट और प्रैक्टिस प्रश्न।"
+    },
+    {
+      "titleEn": "Weekly tests",
+      "titleHi": "साप्ताहिक टेस्ट",
+      "textEn": "Tests in the real exam pattern every week, followed by discussion of every mistake.",
+      "textHi": "हर हफ्ते असली परीक्षा पैटर्न पर टेस्ट, फिर हर गलती पर चर्चा।"
+    },
+    {
+      "titleEn": "Daily doubt sessions",
+      "titleHi": "रोज़ डाउट सेशन",
+      "textEn": "Ask any doubt after class – teachers are available every day.",
+      "textHi": "क्लास के बाद कोई भी डाउट पूछें – शिक्षक रोज़ उपलब्ध।"
+    },
+    {
+      "titleEn": "Progress reports for parents",
+      "titleHi": "अभिभावकों के लिए प्रगति रिपोर्ट",
+      "textEn": "Parents stay updated on test scores, attendance and areas to improve.",
+      "textHi": "टेस्ट स्कोर, उपस्थिति और सुधार के बिंदुओं की जानकारी।"
+    },
+    {
+      "titleEn": "Small batches",
+      "titleHi": "छोटे बैच",
+      "textEn": "Limited students per batch so every student gets attention.",
+      "textHi": "हर बैच में सीमित छात्र, ताकि सब पर ध्यान दिया जा सके।"
+    },
+    {
+      "titleEn": "Hindi + English teaching",
+      "titleHi": "हिंदी + अंग्रेज़ी में पढ़ाई",
+      "textEn": "Concepts explained in the language each student understands best.",
+      "textHi": "हर छात्र जिस भाषा में बेहतर समझे, उसमें समझाया जाता है।"
+    }
+  ],
+  "roadmap": [
+    {
+      "titleEn": "Complete NCERT",
+      "titleHi": "NCERT पूरा करें",
+      "textEn": "Line-by-line NCERT for Biology, with Physics & Chemistry concepts.",
+      "textHi": "जीव विज्ञान की NCERT लाइन-बाय-लाइन, साथ में भौतिकी और रसायन।"
+    },
+    {
+      "titleEn": "Practice MCQs daily",
+      "titleHi": "रोज़ MCQ अभ्यास",
+      "textEn": "Topic-wise MCQs and weekly OMR-based tests.",
+      "textHi": "टॉपिक-वार MCQ और साप्ताहिक OMR टेस्ट।"
+    },
+    {
+      "titleEn": "Revise & boards",
+      "titleHi": "रिवीज़न और बोर्ड",
+      "textEn": "Full syllabus revision and board exam preparation.",
+      "textHi": "पूरे सिलेबस का रिवीज़न और बोर्ड की तैयारी।"
+    },
+    {
+      "titleEn": "Full-length mocks",
+      "titleHi": "फुल-लेंथ मॉक",
+      "textEn": "180-question mock tests in NEET timing, with analysis.",
+      "textHi": "NEET समय में 180 प्रश्नों के मॉक टेस्ट, विश्लेषण के साथ।"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+/* ==========================================================================
+   SNS INSTITUTE – THEME
+   Change colours and fonts here only. Every page uses these variables.
+   Palette is deliberately soft (off-white background, no pure black,
+   muted brand colours) so long reading sessions are easy on the eyes.
+   ========================================================================== */
+
+:root {
+  /* Primary – calm navy blue (from SNS logo) */
+  --sns-primary-50: #f1f4fb;
+  --sns-primary-100: #e2e8f6;
+  --sns-primary-200: #c8d3ee;
+  --sns-primary-300: #a2b4e0;
+  --sns-primary-500: #4a6cc4;
+  --sns-primary-600: #3b5aa8;
+  --sns-primary-700: #33498a;
+  --sns-primary-800: #2d3d6f;
+  --sns-primary-900: #26335b;
+  --sns-primary-950: #1b2441;
+
+  /* Accent – soft coral (from SNS posters) */
+  --sns-accent-300: #f6c0ab;
+  --sns-accent-400: #ee9c7e;
+  --sns-accent-500: #e07a5f;
+  --sns-accent-600: #c9654b;
+
+  /* Highlight – soft yellow (rings, badges) */
+  --sns-sun-300: #f6e3a6;
+  --sns-sun-400: #f2d27a;
+
+  /* Text & neutrals – warm greys, never pure black */
+  --sns-ink-200: #e6e3dd; /* borders */
+  --sns-ink-300: #d6d2ca; /* input borders */
+  --sns-ink-500: #7b7f88; /* small/meta text */
+  --sns-ink-600: #5c616b; /* body muted */
+  --sns-ink-700: #444a55; /* body text */
+  --sns-ink-900: #2b303a; /* strong text */
+
+  /* Surfaces */
+  --sns-bg: #fbfaf7; /* page background – warm off-white */
+  --sns-surface: #ffffff; /* cards */
+  --sns-text: var(--sns-ink-700);
+
+  /* Misc */
+  --sns-whatsapp: #25d366;
+  --sns-success-bg: #edf7ef;
+  --sns-success-text: #2f6b3d;
+  --sns-error-bg: #fbeeec;
+  --sns-error-text: #9b3b2c;
+
+  /* Fonts (loaded in app/[lang]/layout.tsx) */
+  --sns-font-body: var(--font-nunito), var(--font-hind), ui-sans-serif, system-ui, sans-serif;
+  --sns-font-heading: var(--font-baloo), var(--font-hind), ui-sans-serif, sans-serif;
+}

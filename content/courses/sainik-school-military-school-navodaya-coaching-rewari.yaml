@@ -1,0 +1,170 @@
+{
+  "titleEn": "Sainik School, RMS & Navodaya Coaching",
+  "titleHi": "सैनिक स्कूल, मिलिट्री स्कूल और नवोदय कोचिंग",
+  "order": 4,
+  "icon": "shield",
+  "classesEn": "Class 5 & 8 students (for Class 6 & 9 admission)",
+  "classesHi": "कक्षा 5 और 8 के छात्र (कक्षा 6 और 9 में प्रवेश हेतु)",
+  "durationEn": "6 months / 1 year",
+  "durationHi": "6 महीने / 1 वर्ष",
+  "summaryEn": "Complete preparation for Sainik School (AISSEE), Rashtriya Military School (RMS CET) and Jawahar Navodaya Vidyalaya (JNVST) entrance exams – Maths, Mental Ability, English, GK and Science.",
+  "summaryHi": "सैनिक स्कूल (AISSEE), राष्ट्रीय मिलिट्री स्कूल (RMS CET) और जवाहर नवोदय विद्यालय (JNVST) प्रवेश परीक्षा की पूरी तैयारी – गणित, मानसिक योग्यता, अंग्रेज़ी, सामान्य ज्ञान और विज्ञान।",
+  "highlights": [
+    {
+      "en": "One batch for AISSEE, RMS CET & JNVST",
+      "hi": "AISSEE, RMS CET और JNVST – तीनों के लिए एक बैच"
+    },
+    {
+      "en": "Maths shortcuts & speed practice",
+      "hi": "गणित के शॉर्टकट और स्पीड अभ्यास"
+    },
+    {
+      "en": "Mental ability / reasoning made easy",
+      "hi": "मानसिक योग्यता / रीज़निंग आसान तरीके से"
+    },
+    {
+      "en": "GK & current affairs every week",
+      "hi": "हर हफ्ते सामान्य ज्ञान और करंट अफेयर्स"
+    },
+    {
+      "en": "OMR-based mock tests in the real pattern",
+      "hi": "असली पैटर्न पर OMR मॉक टेस्ट"
+    },
+    {
+      "en": "Hindi & English medium",
+      "hi": "हिंदी और अंग्रेज़ी माध्यम"
+    },
+    {
+      "en": "Guidance on forms, medical & interview",
+      "hi": "फॉर्म, मेडिकल और इंटरव्यू पर मार्गदर्शन"
+    },
+    {
+      "en": "Previous year papers solved in class",
+      "hi": "पिछले वर्षों के पेपर क्लास में हल"
+    }
+  ],
+  "subjects": [
+    "Mathematics",
+    "Mental Ability",
+    "English",
+    "General Knowledge",
+    "Science"
+  ],
+  "whoFor": [
+    {
+      "en": "Class 5 students seeking admission to Class 6 in Sainik School, RMS or Navodaya",
+      "hi": "सैनिक स्कूल, RMS या नवोदय में कक्षा 6 में प्रवेश चाहने वाले कक्षा 5 के छात्र"
+    },
+    {
+      "en": "Class 8 students preparing for Class 9 entrance (AISSEE / RMS / JNV lateral entry)",
+      "hi": "कक्षा 9 प्रवेश (AISSEE / RMS / JNV लेटरल एंट्री) की तैयारी करने वाले कक्षा 8 के छात्र"
+    },
+    {
+      "en": "Parents who want a disciplined, defence-oriented school for their child",
+      "hi": "बच्चे के लिए अनुशासित, रक्षा-उन्मुख स्कूल चाहने वाले अभिभावक"
+    },
+    {
+      "en": "Students from Rewari, Mahendragarh, Jhajjar and nearby districts",
+      "hi": "रेवाड़ी, महेंद्रगढ़, झज्जर और आसपास के ज़िलों के छात्र"
+    }
+  ],
+  "syllabus": [
+    {
+      "subject": "Mathematics",
+      "topicsEn": "Number System\nLCM & HCF\nFractions & Decimals\nPercentage, Profit & Loss\nRatio & Proportion\nSimple Interest\nSpeed, Time & Distance\nUnitary Method\nGeometry & Angles\nPerimeter & Area\nVolume\nData Handling",
+      "topicsHi": "संख्या पद्धति\nLCM और HCF\nभिन्न और दशमलव\nप्रतिशत, लाभ-हानि\nअनुपात और समानुपात\nसाधारण ब्याज\nचाल, समय और दूरी\nऐकिक नियम\nज्यामिति और कोण\nपरिमाप और क्षेत्रफल\nआयतन\nआंकड़ों का प्रबंधन"
+    },
+    {
+      "subject": "Mental Ability",
+      "topicsEn": "Odd One Out\nSeries Completion\nAnalogy\nCoding–Decoding\nMirror & Water Images\nFigure Completion\nPaper Folding & Cutting\nDirection Sense\nPattern Completion\nEmbedded Figures",
+      "topicsHi": "विषम को चुनें\nश्रृंखला पूर्ण करें\nसादृश्यता\nकोडिंग–डिकोडिंग\nदर्पण और जल प्रतिबिंब\nआकृति पूर्ण करें\nकागज़ मोड़ना और काटना\nदिशा ज्ञान\nपैटर्न पूर्ण करें\nनिहित आकृतियाँ"
+    },
+    {
+      "subject": "English / Language",
+      "topicsEn": "Reading Comprehension\nGrammar & Tenses\nVocabulary\nSynonyms & Antonyms\nSentence Correction\nFill in the Blanks",
+      "topicsHi": "अपठित गद्यांश\nव्याकरण\nशब्दावली\nपर्यायवाची और विलोम\nवाक्य शुद्धि\nरिक्त स्थान"
+    },
+    {
+      "subject": "General Knowledge",
+      "topicsEn": "Indian History & Culture\nGeography of India\nIndian Constitution basics\nIndian Armed Forces\nSports & Awards\nScience in Everyday Life\nCurrent Affairs",
+      "topicsHi": "भारतीय इतिहास और संस्कृति\nभारत का भूगोल\nसंविधान की मूल बातें\nभारतीय सशस्त्र बल\nखेल और पुरस्कार\nदैनिक जीवन में विज्ञान\nकरंट अफेयर्स"
+    },
+    {
+      "subject": "Science & Social Studies (Class 9)",
+      "topicsEn": "Physics, Chemistry & Biology basics\nHistory\nGeography\nCivics\nClass 8 NCERT level",
+      "topicsHi": "भौतिकी, रसायन और जीव विज्ञान की मूल बातें\nइतिहास\nभूगोल\nनागरिक शास्त्र\nकक्षा 8 NCERT स्तर"
+    }
+  ],
+  "features": [
+    {
+      "titleEn": "Exam-wise strategy",
+      "titleHi": "परीक्षा-वार रणनीति",
+      "textEn": "Separate practice for AISSEE, RMS CET and JNVST patterns – one batch covers all three.",
+      "textHi": "AISSEE, RMS CET और JNVST पैटर्न का अलग अभ्यास – एक ही बैच में तीनों।"
+    },
+    {
+      "titleEn": "OMR mock tests",
+      "titleHi": "OMR मॉक टेस्ट",
+      "textEn": "Weekly tests on OMR sheets so children are comfortable on exam day.",
+      "textHi": "हर हफ्ते OMR शीट पर टेस्ट, ताकि परीक्षा के दिन बच्चा सहज रहे।"
+    },
+    {
+      "titleEn": "Previous year papers",
+      "titleHi": "पिछले वर्षों के पेपर",
+      "textEn": "Solved papers of previous years discussed in class.",
+      "textHi": "पिछले वर्षों के पेपर क्लास में हल और चर्चा।"
+    },
+    {
+      "titleEn": "Study material in Hindi & English",
+      "titleHi": "हिंदी और अंग्रेज़ी में स्टडी मटेरियल",
+      "textEn": "Notes and practice sheets in the medium your child is comfortable with.",
+      "textHi": "बच्चे की सुविधा अनुसार माध्यम में नोट्स और प्रैक्टिस शीट।"
+    },
+    {
+      "titleEn": "Speed & accuracy drills",
+      "titleHi": "स्पीड और सटीकता अभ्यास",
+      "textEn": "Timed practice so that children finish the paper with time to spare.",
+      "textHi": "समयबद्ध अभ्यास ताकि बच्चा समय से पहले पेपर पूरा करे।"
+    },
+    {
+      "titleEn": "Admission guidance",
+      "titleHi": "प्रवेश मार्गदर्शन",
+      "textEn": "Help with online forms, documents, medical and interview preparation.",
+      "textHi": "ऑनलाइन फॉर्म, दस्तावेज़, मेडिकल और इंटरव्यू की तैयारी में मदद।"
+    }
+  ],
+  "roadmap": [
+    {
+      "titleEn": "Build basics",
+      "titleHi": "बेसिक मज़बूत करें",
+      "textEn": "Maths and reasoning fundamentals from Class 4–5 (or Class 7–8) level.",
+      "textHi": "कक्षा 4–5 (या 7–8) स्तर से गणित और रीज़निंग की मूल बातें।"
+    },
+    {
+      "titleEn": "Learn exam patterns",
+      "titleHi": "परीक्षा पैटर्न समझें",
+      "textEn": "Topic-wise practice for AISSEE, RMS CET and JNVST question types.",
+      "textHi": "AISSEE, RMS CET और JNVST प्रश्नों का टॉपिक-वार अभ्यास।"
+    },
+    {
+      "titleEn": "Practice papers",
+      "titleHi": "प्रैक्टिस पेपर",
+      "textEn": "Previous year papers and sectional tests with speed drills.",
+      "textHi": "पिछले वर्षों के पेपर और सेक्शनल टेस्ट, स्पीड अभ्यास के साथ।"
+    },
+    {
+      "titleEn": "Full mocks & admission",
+      "titleHi": "फुल मॉक और प्रवेश",
+      "textEn": "Full-length OMR mocks, then help with counselling, medical & documents.",
+      "textHi": "फुल-लेंथ OMR मॉक, फिर काउंसलिंग, मेडिकल और दस्तावेज़ों में मदद।"
+    }
+  ],
+  "fee": "Call for fee details",
+  "bodyEn": "## Sainik School, Military School & Navodaya coaching in Rewari\n\nGetting into a **Sainik School**, **Rashtriya Military School (RMS)** or **Jawahar Navodaya Vidyalaya (JNV)** gives children quality education, discipline and – in Sainik Schools and RMS – a strong foundation for a career in the armed forces through NDA. Haryana has Sainik Schools at Kunjpura and Rewari, and Rewari district has its own Jawahar Navodaya Vidyalaya.\n\nAt SNS Institute, one focused batch prepares students for all three entrance exams.\n\n### Exam pattern at a glance (Class 6 entry)\n\n| Exam | Conducted by | Subjects | Questions / Marks |\n| --- | --- | --- | --- |\n| Sainik School (AISSEE) | NTA | Maths, Intelligence, Language, GK | 125 questions, 300 marks, 150 min |\n| Rashtriya Military School (RMS CET) | RMS Society | English, Intelligence, Maths, GK & Current Affairs | 200 marks |\n| Navodaya (JNVST) | NVS | Mental Ability, Arithmetic, Language | 80 questions, 100 marks, 2 hours |\n\nFor **Class 9** entry, AISSEE has 150 questions (400 marks) from Maths, Intelligence, English, General Science and Social Studies.\n\n*Patterns are based on recent years. Always check the official notification (exams.nta.nic.in/sainik-school-society, rashtriyamilitaryschools.edu.in, navodaya.gov.in) for the latest details.*\n",
+  "bodyHi": "## रेवाड़ी में सैनिक स्कूल, मिलिट्री स्कूल और नवोदय कोचिंग\n\n**सैनिक स्कूल**, **राष्ट्रीय मिलिट्री स्कूल (RMS)** या **जवाहर नवोदय विद्यालय (JNV)** में प्रवेश से बच्चे को गुणवत्तापूर्ण शिक्षा, अनुशासन और – सैनिक स्कूल व RMS में – NDA के ज़रिए सेना में करियर की मज़बूत नींव मिलती है।\n\nSNS इंस्टीट्यूट में एक ही फोकस्ड बैच तीनों प्रवेश परीक्षाओं की तैयारी करवाता है।\n\n### परीक्षा पैटर्न (कक्षा 6 प्रवेश)\n\n| परीक्षा | आयोजक | विषय | प्रश्न / अंक |\n| --- | --- | --- | --- |\n| सैनिक स्कूल (AISSEE) | NTA | गणित, बुद्धिमत्ता, भाषा, सामान्य ज्ञान | 125 प्रश्न, 300 अंक, 150 मिनट |\n| राष्ट्रीय मिलिट्री स्कूल (RMS CET) | RMS सोसाइटी | अंग्रेज़ी, बुद्धिमत्ता, गणित, सामान्य ज्ञान | 200 अंक |\n| नवोदय (JNVST) | NVS | मानसिक योग्यता, अंकगणित, भाषा | 80 प्रश्न, 100 अंक, 2 घंटे |\n\n*पैटर्न हाल के वर्षों पर आधारित है। नवीनतम जानकारी के लिए आधिकारिक अधिसूचना ज़रूर देखें।*\n",
+  "image": null,
+  "seo": {
+    "title": "Sainik School, RMS & Navodaya Coaching in Rewari | SNS Institute",
+    "description": "Coaching in Rewari for Sainik School (AISSEE), Rashtriya Military School (RMS CET) and Navodaya (JNVST) entrance – Class 6 & 9. Maths, reasoning, GK, OMR mock tests."
+  }
+}

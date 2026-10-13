@@ -1,0 +1,20 @@
+{
+  "name": "Manoj Sir",
+  "subject": "Chemistry",
+  "qualification": "B.Sc, M.Sc, B.Ed",
+  "experience": "7+ years",
+  "photo": null,
+  "order": 3,
+  "leader": false,
+  "highlights": [],
+  "roleEn": "Chemistry Faculty",
+  "roleHi": "रसायन शिक्षक",
+  "teaches": [
+    "JEE",
+    "NEET",
+    "Class 11–12"
+  ],
+  "bioEn": "Manoj Sir makes Chemistry simple – from reaction mechanisms in Organic to numericals in Physical Chemistry – with regular practice and short tricks.",
+  "bioHi": "मनोज सर ऑर्गेनिक से फिज़िकल केमिस्ट्री तक, नियमित अभ्यास और आसान ट्रिक्स के साथ रसायन को सरल बनाते हैं।",
+  "active": true
+}

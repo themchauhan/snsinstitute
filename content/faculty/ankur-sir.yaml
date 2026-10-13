@@ -1,0 +1,20 @@
+{
+  "name": "Ankur Sir",
+  "subject": "Biology",
+  "qualification": "B.Sc, M.Sc, B.Ed",
+  "experience": "10+ years",
+  "photo": null,
+  "order": 1,
+  "leader": true,
+  "highlights": [],
+  "roleEn": "Director & Biology Faculty",
+  "roleHi": "निदेशक और जीव विज्ञान शिक्षक",
+  "teaches": [
+    "NEET",
+    "Class 11–12",
+    "Class 9–10 Science"
+  ],
+  "bioEn": "Ankur Sir leads SNS Institute as Director and teaches Biology. He focuses on NCERT, clear diagrams and easy memory techniques, and personally guides students and parents on courses, batches and preparation strategy.",
+  "bioHi": "अंकुर सर SNS इंस्टीट्यूट के निदेशक हैं और जीव विज्ञान पढ़ाते हैं। वे NCERT, डायग्राम और याद रखने की आसान तकनीकों पर ज़ोर देते हैं और छात्रों व अभिभावकों को कोर्स, बैच और तैयारी की रणनीति पर व्यक्तिगत मार्गदर्शन देते हैं।",
+  "active": true
+}

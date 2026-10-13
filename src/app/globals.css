@@ -1,26 +1,116 @@
 @import "tailwindcss";
+@import "./theme.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
+/* All colours and fonts come from theme.css – edit them there. */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-brand-50: var(--sns-primary-50);
+  --color-brand-100: var(--sns-primary-100);
+  --color-brand-200: var(--sns-primary-200);
+  --color-brand-300: var(--sns-primary-300);
+  --color-brand-500: var(--sns-primary-500);
+  --color-brand-600: var(--sns-primary-600);
+  --color-brand-700: var(--sns-primary-700);
+  --color-brand-800: var(--sns-primary-800);
+  --color-brand-900: var(--sns-primary-900);
+  --color-brand-950: var(--sns-primary-950);
+
+  --color-accent-300: var(--sns-accent-300);
+  --color-accent-400: var(--sns-accent-400);
+  --color-accent-500: var(--sns-accent-500);
+  --color-accent-600: var(--sns-accent-600);
+
+  --color-sun-300: var(--sns-sun-300);
+  --color-sun-400: var(--sns-sun-400);
+
+  --color-ink-200: var(--sns-ink-200);
+  --color-ink-300: var(--sns-ink-300);
+  --color-ink-500: var(--sns-ink-500);
+  --color-ink-600: var(--sns-ink-600);
+  --color-ink-700: var(--sns-ink-700);
+  --color-ink-900: var(--sns-ink-900);
+
+  --color-surface: var(--sns-surface);
+  --color-page: var(--sns-bg);
+  --color-whatsapp: var(--sns-whatsapp);
+  --color-success-bg: var(--sns-success-bg);
+  --color-success-text: var(--sns-success-text);
+  --color-error-bg: var(--sns-error-bg);
+  --color-error-text: var(--sns-error-text);
+
+  --font-sans: var(--sns-font-body);
+  --font-display: var(--sns-font-heading);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--sns-bg);
+  color: var(--sns-text);
+  font-family: var(--font-sans);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+:lang(hi) body,
+:lang(hi) {
+  line-height: 1.75;
+}
+
+@layer components {
+  .btn-accent {
+    @apply inline-flex items-center gap-2 rounded-full bg-accent-500 px-5 py-2.5 font-bold text-white shadow-sm transition hover:bg-accent-600 focus-visible:outline-4 focus-visible:outline-offset-2 focus-visible:outline-accent-300;
+  }
+  .btn-outline {
+    @apply inline-flex items-center gap-2 rounded-full border-2 border-brand-700 px-5 py-2.5 font-bold text-brand-800 transition hover:bg-brand-700 hover:text-white;
+  }
+  .card {
+    @apply rounded-2xl border border-ink-200 bg-surface p-6 shadow-sm transition hover:-translate-y-0.5 hover:shadow-lg;
+  }
+  .bg-hero-pattern {
+    background-color: var(--sns-primary-50);
+    background-image: radial-gradient(circle at 1px 1px, color-mix(in srgb, var(--sns-primary-500) 12%, transparent) 1px, transparent 0);
+    background-size: 22px 22px;
+  }
+
+  /* Rich text from the CMS */
+  .prose-sns {
+    @apply max-w-3xl text-ink-700;
+  }
+  .prose-sns h2 {
+    @apply mt-10 mb-3 font-display text-2xl font-bold text-brand-950;
+  }
+  .prose-sns h3 {
+    @apply mt-8 mb-2 font-display text-xl font-bold text-brand-900;
+  }
+  .prose-sns p {
+    @apply my-4;
+  }
+  .prose-sns ul {
+    @apply my-4 list-disc space-y-1 pl-6;
+  }
+  .prose-sns ol {
+    @apply my-4 list-decimal space-y-1 pl-6;
+  }
+  .prose-sns a {
+    @apply font-semibold text-brand-600 underline underline-offset-2;
+  }
+  .prose-sns strong {
+    @apply text-ink-900;
+  }
+  .prose-sns table {
+    @apply my-6 w-full border-collapse text-left text-sm;
+  }
+  .prose-sns th,
+  .prose-sns td {
+    @apply border border-ink-200 px-3 py-2;
+  }
+  .prose-sns th {
+    @apply bg-brand-50 font-semibold text-brand-900;
+  }
+  .prose-sns blockquote {
+    @apply my-6 border-l-4 border-accent-500 bg-accent-300/10 py-2 pl-4 italic;
+  }
 }

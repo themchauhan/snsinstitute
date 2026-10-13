@@ -1,0 +1,20 @@
+{
+  "name": "Mrs. Manju Yadav",
+  "subject": "English",
+  "qualification": "MA English, MA Pol. Science, M.Ed, CTET, RTET",
+  "experience": "6+ years",
+  "photo": null,
+  "order": 6,
+  "leader": false,
+  "highlights": [],
+  "roleEn": "English Faculty",
+  "roleHi": "अंग्रेज़ी शिक्षिका",
+  "teaches": [
+    "Class 5–12",
+    "Board exams",
+    "CUET"
+  ],
+  "bioEn": "Mrs. Manju Yadav helps students improve grammar, writing and comprehension for school, board and entrance exams.",
+  "bioHi": "श्रीमती मंजू यादव स्कूल, बोर्ड और प्रवेश परीक्षाओं के लिए ग्रामर, लेखन और समझ सुधारने में मदद करती हैं।",
+  "active": true
+}
