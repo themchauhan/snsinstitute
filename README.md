@@ -58,7 +58,7 @@ src/app/theme.css        ← colours & fonts (edit here)
 src/app/[lang]/…         ← pages (lang = en | hi)
 src/lib/i18n.ts          ← UI text in English & Hindi
 src/lib/seo.ts           ← metadata, hreflang, JSON-LD schema
-src/app/actions.ts       ← enquiry form (email via Resend / Google Sheet webhook)
+src/app/actions.ts       ← enquiry form (email via Gmail App Password / optional Google Sheet webhook)
 ```
 
 URLs: English at `/…` and Hindi at `/hi/…`. `next.config.ts` rewrites English URLs to `/en/…` internally.
@@ -75,7 +75,7 @@ URLs: English at `/…` and Hindi at `/hi/…`. `next.config.ts` rewrites Englis
    - `NEXT_PUBLIC_SITE_URL`
    - `NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO`
    - the four `KEYSTATIC_*` values from `.env`
-   - `RESEND_API_KEY`, `ENQUIRY_EMAIL_TO`, `ENQUIRY_EMAIL_FROM`
+   - `GMAIL_USER`, `GMAIL_APP_PASSWORD`, `ENQUIRY_EMAIL_TO`
 
    Then **Redeploy**.
 5. **Allow the live domain to log in.** GitHub → Settings → Developer settings → GitHub Apps → your app → add a Callback URL for each domain:

@@ -46,7 +46,7 @@ export default async function RootLayout({ children, params }: LayoutProps<'/[la
   const [settings, home, courses, locations] = await Promise.all([getSettings(), getHome(), getCourses(), getLocations()]);
 
   return (
-    <html lang={lang === 'hi' ? 'hi-IN' : 'en-IN'} className={`${baloo.variable} ${nunito.variable} ${hind.variable}`}>
+    <html lang={lang === 'hi' ? 'hi-IN' : 'en-IN'} data-scroll-behavior="smooth" className={`${baloo.variable} ${nunito.variable} ${hind.variable}`}>
       <body className="antialiased">
         <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:rounded focus:bg-surface focus:p-3">
           Skip to content
