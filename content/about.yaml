@@ -1,117 +1,102 @@
-{
-  "introEn": "SNS Institute has been helping students of Rewari and nearby towns prepare for JEE, NEET and school board exams since 2018.",
-  "introHi": "SNS इंस्टीट्यूट 2018 से रेवाड़ी और आसपास के छात्रों को JEE, NEET और बोर्ड परीक्षाओं की तैयारी करवा रहा है।",
-  "bodyEn": "## Our story\n\nSNS Institute started in Rewari in 2018 with one goal: give students of South Haryana the same quality of coaching that is usually only found in big cities – without leaving home.\n\nToday we teach **IIT-JEE**, **NEET**, **IIT/NEET foundation** and **school tuition for classes 5 to 12** (CBSE and HBSE) at Gopal Dev Chowk, Narnaul Road.\n\n## How we teach\n\n- A specialised teacher for every subject\n- Small batches so every student gets attention\n- Regular tests in the real exam pattern\n- Doubt sessions and personal mentoring\n- Concepts explained in Hindi and English\n\n",
-  "bodyHi": "## हमारी कहानी\n\nSNS इंस्टीट्यूट की शुरुआत 2018 में रेवाड़ी में हुई। हमारा लक्ष्य है – दक्षिण हरियाणा के छात्रों को बड़े शहरों जैसी गुणवत्ता वाली कोचिंग, अपने ही शहर में।\n\nआज हम गोपाल देव चौक, नारनौल रोड पर **IIT-JEE**, **NEET**, **IIT/NEET फाउंडेशन** और **कक्षा 5 से 12 (CBSE और HBSE)** की ट्यूशन पढ़ाते हैं।\n\n## हम कैसे पढ़ाते हैं\n\n- हर विषय के लिए विशेषज्ञ शिक्षक\n- छोटे बैच, हर छात्र पर ध्यान\n- असली परीक्षा पैटर्न पर नियमित टेस्ट\n- डाउट सेशन और व्यक्तिगत मार्गदर्शन\n- हिंदी और अंग्रेज़ी दोनों में समझाना\n\n",
-  "image": "/images/about/reception.jpg",
-  "seo": {
-    "title": "",
-    "description": ""
-  },
-  "slides": [
-    {
-      "image": "/images/about/reception.jpg",
-      "captionEn": "Welcome to SNS Institute, Gopal Dev Chowk",
-      "captionHi": "SNS इंस्टीट्यूट, गोपाल देव चौक में आपका स्वागत है"
-    },
-    {
-      "image": "/images/about/classroom-1.jpg",
-      "captionEn": "Spacious, well-lit classrooms",
-      "captionHi": "बड़े, रोशनी से भरे क्लासरूम"
-    },
-    {
-      "image": "/images/about/award-ceremony-toppers.jpg",
-      "captionEn": "Celebrating our toppers",
-      "captionHi": "हमारे टॉपर्स का सम्मान"
-    },
-    {
-      "image": "/images/about/counselling-desk.jpg",
-      "captionEn": "Personal counselling for every student",
-      "captionHi": "हर छात्र के लिए व्यक्तिगत काउंसलिंग"
-    },
-    {
-      "image": "/images/about/waiting-lounge.jpg",
-      "captionEn": "Comfortable lounge for parents",
-      "captionHi": "अभिभावकों के लिए आरामदायक लाउंज"
-    },
-    {
-      "image": "/images/about/sports-volleyball.jpg",
-      "captionEn": "Sports keep minds fresh",
-      "captionHi": "खेल से मन तरोताज़ा"
-    }
-  ],
-  "missionEn": "To give every student of Rewari and South Haryana access to quality coaching – with expert teachers, personal attention and honest guidance – so that no one has to leave home to chase their dream.",
-  "missionHi": "रेवाड़ी और दक्षिण हरियाणा के हर छात्र को गुणवत्तापूर्ण कोचिंग देना – विशेषज्ञ शिक्षक, व्यक्तिगत ध्यान और ईमानदार मार्गदर्शन के साथ – ताकि सपने पूरे करने के लिए किसी को घर न छोड़ना पड़े।",
-  "visionEn": "To become South Haryana’s most trusted institute for JEE, NEET and school education, known for concepts, discipline and results.",
-  "visionHi": "JEE, NEET और स्कूल शिक्षा के लिए दक्षिण हरियाणा का सबसे भरोसेमंद संस्थान बनना – कॉन्सेप्ट, अनुशासन और परिणामों के लिए जाना जाने वाला।",
-  "values": [
-    {
-      "titleEn": "Believe",
-      "titleHi": "विश्वास",
-      "textEn": "Every student can succeed with the right guidance.",
-      "textHi": "सही मार्गदर्शन से हर छात्र सफल हो सकता है।"
-    },
-    {
-      "titleEn": "Prepare",
-      "titleHi": "तैयारी",
-      "textEn": "Strong concepts, daily practice and regular tests.",
-      "textHi": "मज़बूत कॉन्सेप्ट, रोज़ अभ्यास और नियमित टेस्ट।"
-    },
-    {
-      "titleEn": "Perform",
-      "titleHi": "प्रदर्शन",
-      "textEn": "Exam temperament built through real-pattern mock tests.",
-      "textHi": "असली पैटर्न के मॉक टेस्ट से परीक्षा का आत्मविश्वास।"
-    },
-    {
-      "titleEn": "Succeed",
-      "titleHi": "सफलता",
-      "textEn": "Results that make students and parents proud.",
-      "textHi": "ऐसे परिणाम जिन पर छात्र और अभिभावक गर्व करें।"
-    }
-  ],
-  "facilities": [
-    {
-      "titleEn": "Modern classrooms",
-      "titleHi": "आधुनिक क्लासरूम",
-      "textEn": "Bright, airy classrooms with comfortable benches and good ventilation.",
-      "textHi": "आरामदायक बेंच और अच्छी हवा-रोशनी वाले क्लासरूम।",
-      "image": "/images/about/classroom-2.jpg"
-    },
-    {
-      "titleEn": "Reception & parents lounge",
-      "titleHi": "रिसेप्शन और अभिभावक लाउंज",
-      "textEn": "A welcoming reception and a comfortable waiting area for parents.",
-      "textHi": "स्वागत करता रिसेप्शन और अभिभावकों के लिए आरामदायक प्रतीक्षा क्षेत्र।",
-      "image": "/images/about/reception-lounge.jpg"
-    },
-    {
-      "titleEn": "Counselling desk",
-      "titleHi": "काउंसलिंग डेस्क",
-      "textEn": "One-to-one guidance on courses, batches and career choices.",
-      "textHi": "कोर्स, बैच और करियर पर व्यक्तिगत मार्गदर्शन।",
-      "image": "/images/about/admission-desk.jpg"
-    },
-    {
-      "titleEn": "Hostel facility",
-      "titleHi": "हॉस्टल सुविधा",
-      "textEn": "Stay close to the institute if you are coming from another city.",
-      "textHi": "दूसरे शहर से आने पर इंस्टीट्यूट के पास रहने की सुविधा।",
-      "image": null
-    },
-    {
-      "titleEn": "Regular test series",
-      "titleHi": "नियमित टेस्ट सीरीज़",
-      "textEn": "Weekly tests and full-length mocks in the real exam pattern.",
-      "textHi": "असली परीक्षा पैटर्न पर साप्ताहिक टेस्ट और फुल-लेंथ मॉक।",
-      "image": null
-    },
-    {
-      "titleEn": "Sports & activities",
-      "titleHi": "खेल और गतिविधियाँ",
-      "textEn": "Outdoor games and events that keep students fresh and motivated.",
-      "textHi": "छात्रों को तरोताज़ा और प्रेरित रखने वाले खेल और कार्यक्रम।",
-      "image": "/images/about/sports-ground.jpg"
-    }
-  ]
-}
+introEn: SNS Institute has been helping students of Rewari and nearby towns prepare for JEE, NEET and school board exams since 2018.
+introHi: SNS इंस्टीट्यूट 2018 से रेवाड़ी और आसपास के छात्रों को JEE, NEET और बोर्ड परीक्षाओं की तैयारी करवा रहा है।
+bodyEn: |+
+  ## Our story
+
+  SNS Institute started in Rewari in 2018 with one goal: give students of South Haryana the same quality of coaching that is usually only found in big cities – without leaving home.
+
+  Today we teach **IIT-JEE**, **NEET**, **IIT/NEET foundation** and **school tuition for classes 5 to 12** (CBSE and HBSE) at Gopal Dev Chowk, Narnaul Road.
+
+  ## How we teach
+
+  - A specialised teacher for every subject
+  - Small batches so every student gets attention
+  - Regular tests in the real exam pattern
+  - Doubt sessions and personal mentoring
+  - Concepts explained in Hindi and English
+
+bodyHi: |+
+  ## हमारी कहानी
+
+  SNS इंस्टीट्यूट की शुरुआत 2018 में रेवाड़ी में हुई। हमारा लक्ष्य है – दक्षिण हरियाणा के छात्रों को बड़े शहरों जैसी गुणवत्ता वाली कोचिंग, अपने ही शहर में।
+
+  आज हम गोपाल देव चौक, नारनौल रोड पर **IIT-JEE**, **NEET**, **IIT/NEET फाउंडेशन** और **कक्षा 5 से 12 (CBSE और HBSE)** की ट्यूशन पढ़ाते हैं।
+
+  ## हम कैसे पढ़ाते हैं
+
+  - हर विषय के लिए विशेषज्ञ शिक्षक
+  - छोटे बैच, हर छात्र पर ध्यान
+  - असली परीक्षा पैटर्न पर नियमित टेस्ट
+  - डाउट सेशन और व्यक्तिगत मार्गदर्शन
+  - हिंदी और अंग्रेज़ी दोनों में समझाना
+
+image: /images/about/reception.jpg
+slides:
+  - image: /images/about/reception.jpg
+    captionEn: Welcome to SNS Institute, Gopal Dev Chowk
+    captionHi: SNS इंस्टीट्यूट, गोपाल देव चौक में आपका स्वागत है
+  - image: /images/about/classroom-1.jpg
+    captionEn: Spacious, well-lit classrooms
+    captionHi: बड़े, रोशनी से भरे क्लासरूम
+  - image: /images/about/award-ceremony-toppers.jpg
+    captionEn: Celebrating our toppers
+    captionHi: हमारे टॉपर्स का सम्मान
+  - image: /images/about/counselling-desk.jpg
+    captionEn: Personal counselling for every student
+    captionHi: हर छात्र के लिए व्यक्तिगत काउंसलिंग
+  - image: /images/about/waiting-lounge.jpg
+    captionEn: Comfortable lounge for parents
+    captionHi: अभिभावकों के लिए आरामदायक लाउंज
+  - image: /images/about/sports-volleyball.jpg
+    captionEn: Sports keep minds fresh
+    captionHi: खेल से मन तरोताज़ा
+missionEn: To give every student of Rewari and South Haryana access to quality coaching – with expert teachers, personal attention and honest guidance – so that no one has to leave home to chase their dream.
+missionHi: रेवाड़ी और दक्षिण हरियाणा के हर छात्र को गुणवत्तापूर्ण कोचिंग देना – विशेषज्ञ शिक्षक, व्यक्तिगत ध्यान और ईमानदार मार्गदर्शन के साथ – ताकि सपने पूरे करने के लिए किसी को घर न छोड़ना पड़े।
+visionEn: To become South Haryana’s most trusted institute for JEE, NEET and school education, known for concepts, discipline and results.
+visionHi: JEE, NEET और स्कूल शिक्षा के लिए दक्षिण हरियाणा का सबसे भरोसेमंद संस्थान बनना – कॉन्सेप्ट, अनुशासन और परिणामों के लिए जाना जाने वाला।
+values:
+  - titleEn: Believe
+    titleHi: विश्वास
+    textEn: Every student can succeed with the right guidance.
+    textHi: सही मार्गदर्शन से हर छात्र सफल हो सकता है।
+  - titleEn: Prepare
+    titleHi: तैयारी
+    textEn: Strong concepts, daily practice and regular tests.
+    textHi: मज़बूत कॉन्सेप्ट, रोज़ अभ्यास और नियमित टेस्ट।
+  - titleEn: Perform
+    titleHi: प्रदर्शन
+    textEn: Exam temperament built through real-pattern mock tests.
+    textHi: असली पैटर्न के मॉक टेस्ट से परीक्षा का आत्मविश्वास।
+  - titleEn: Succeed
+    titleHi: सफलता
+    textEn: Results that make students and parents proud.
+    textHi: ऐसे परिणाम जिन पर छात्र और अभिभावक गर्व करें।
+facilities:
+  - titleEn: Modern classrooms
+    titleHi: आधुनिक क्लासरूम
+    textEn: Bright, airy classrooms with comfortable benches and good ventilation.
+    textHi: आरामदायक बेंच और अच्छी हवा-रोशनी वाले क्लासरूम।
+    image: /images/about/classroom-2.jpg
+  - titleEn: Reception & parents lounge
+    titleHi: रिसेप्शन और अभिभावक लाउंज
+    textEn: A welcoming reception and a comfortable waiting area for parents.
+    textHi: स्वागत करता रिसेप्शन और अभिभावकों के लिए आरामदायक प्रतीक्षा क्षेत्र।
+    image: /images/about/reception-lounge.jpg
+  - titleEn: Counselling desk
+    titleHi: काउंसलिंग डेस्क
+    textEn: One-to-one guidance on courses, batches and career choices.
+    textHi: कोर्स, बैच और करियर पर व्यक्तिगत मार्गदर्शन।
+    image: /images/about/admission-desk.jpg
+  - titleEn: Hostel facility
+    titleHi: हॉस्टल सुविधा
+    textEn: Stay close to the institute if you are coming from another city.
+    textHi: दूसरे शहर से आने पर इंस्टीट्यूट के पास रहने की सुविधा।
+  - titleEn: Regular test series
+    titleHi: नियमित टेस्ट सीरीज़
+    textEn: Weekly tests and full-length mocks in the real exam pattern.
+    textHi: असली परीक्षा पैटर्न पर साप्ताहिक टेस्ट और फुल-लेंथ मॉक।
+  - titleEn: Sports & activities
+    titleHi: खेल और गतिविधियाँ
+    textEn: Outdoor games and events that keep students fresh and motivated.
+    textHi: छात्रों को तरोताज़ा और प्रेरित रखने वाले खेल और कार्यक्रम।
+    image: /images/about/sports-ground.jpg

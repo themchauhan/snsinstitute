@@ -1,0 +1,54 @@
+# GALLERY
+# Order in this file = order on the site (the first 5 also appear on the home page).
+# Put photos in public/images/gallery/ (max ~1800px wide).
+#
+# - caption: Annual day 2026
+#   image: /images/gallery/annual-day-2026.jpg
+
+- caption: Reception at SNS Institute, Gopal Dev Chowk
+  image: /images/gallery/reception.jpg
+
+- caption: Spacious, well-lit classroom
+  image: /images/gallery/classroom-1.jpg
+
+- caption: Students receiving awards for their results
+  image: /images/gallery/student-award.jpg
+
+- caption: Admission and counselling desk
+  image: /images/gallery/counselling-desk.jpg
+
+- caption: Parents waiting lounge
+  image: /images/gallery/waiting-lounge.jpg
+
+- caption: Classroom with comfortable benches
+  image: /images/gallery/classroom-2.jpg
+
+- caption: Felicitating our toppers at SNS Institute
+  image: /images/gallery/award-ceremony-toppers.jpg
+
+- caption: Student felicitation ceremony
+  image: /images/gallery/student-felicitation.jpg
+
+- caption: Faculty at the award ceremony
+  image: /images/gallery/faculty-award-ceremony.jpg
+
+- caption: Reception and lounge
+  image: /images/gallery/reception-lounge.jpg
+
+- caption: Admission desk with motivational boards
+  image: /images/gallery/admission-desk.jpg
+
+- caption: Classroom block
+  image: /images/gallery/classroom-3.jpg
+
+- caption: Bright corridor and study area
+  image: /images/gallery/corridor.jpg
+
+- caption: Faculty office
+  image: /images/gallery/office.jpg
+
+- caption: Sports activity – volleyball
+  image: /images/gallery/sports-volleyball.jpg
+
+- caption: Outdoor games for students
+  image: /images/gallery/sports-ground.jpg

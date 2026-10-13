@@ -5,8 +5,6 @@ import type { NextConfig } from "next";
  * Internally both are served by app/[lang]/…, so English URLs are rewritten to /en/….
  */
 const nextConfig: NextConfig = {
-  // Keystatic's GitHub login redirects local dev to 127.0.0.1 – allow it (dev only).
-  allowedDevOrigins: ["127.0.0.1"],
   turbopack: {
     rules: {
       "*.css": {
@@ -15,7 +13,7 @@ const nextConfig: NextConfig = {
       },
     },
   },
-  // Branded 404 for any unknown URL (the site has two root layouts: [lang] and keystatic).
+  // Branded 404 for any unknown URL (the root layout lives under [lang]).
   experimental: {
     globalNotFound: true,
   },
@@ -34,8 +32,8 @@ const nextConfig: NextConfig = {
       beforeFiles: [
         { source: "/", destination: "/en" },
         {
-          // everything except /hi, /keystatic, /api, Next internals and files with an extension
-          source: "/:path((?!hi(?:/|$)|en(?:/|$)|keystatic|api/|_next/)[^.]+)",
+          // everything except /hi, /api, Next internals and files with an extension
+          source: "/:path((?!hi(?:/|$)|en(?:/|$)|api/|_next/)[^.]+)",
           destination: "/en/:path",
         },
       ],

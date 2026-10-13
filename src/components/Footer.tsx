@@ -1,12 +1,11 @@
 import Link from 'next/link';
 import { getDict, href, pick, type Locale } from '@/lib/i18n';
-import type { Settings, CourseEntry } from '@/lib/content';
+import type { Settings, CourseEntry, Entry, Location } from '@/lib/content';
 import { Logo } from './Logo';
 import { Icon } from './Icon';
 
-type Loc = { slug: string; entry: { town: string; townHi: string } };
 
-export function Footer({ lang, settings, courses, locations }: { lang: Locale; settings: Settings; courses: CourseEntry[]; locations: Loc[] }) {
+export function Footer({ lang, settings, courses, locations }: { lang: Locale; settings: Settings; courses: CourseEntry[]; locations: Entry<Location>[] }) {
   const t = getDict(lang);
   const tel = (p: string) => `tel:+91${p.replace(/\D/g, '').slice(-10)}`;
   return (

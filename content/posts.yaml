@@ -1,0 +1,155 @@
+# EXAM UPDATES / NOTICES (blog)
+# Add a new post by pasting a block at the TOP of this file (newest first).
+# The page address is made from the title automatically – e.g. "NEET 2027 Admit Card" → /updates/neet-2027-admit-card
+# (once a post is live, don't change its title… or add  slug: old-address  to keep the old link working).
+#
+# - titleEn: NEET 2027 Admit Card Released
+#   titleHi: NEET 2027 एडमिट कार्ड जारी          # optional
+#   date: 2027-04-20                           # YYYY-MM-DD
+#   category: exam                             # exam | notice | result | tips
+#   excerptEn: One or two lines for the card and Google.
+#   excerptHi: ...                             # optional
+#   cover: /images/posts/neet-admit-card.jpg   # optional – put the image in public/images/posts/
+#   bodyEn: |
+#     Write the article here. Keep every line indented by 4 spaces.
+#
+#     ## Heading
+#     - point one
+#     - point two
+#   bodyHi: |                                  # optional
+#     ...
+
+- slug: sainik-school-rms-navodaya-entrance-exam-pattern-guide
+  titleEn: "Sainik School vs Military School vs Navodaya: Entrance Exam Pattern & Preparation Guide"
+  titleHi: "सैनिक स्कूल, मिलिट्री स्कूल और नवोदय: प्रवेश परीक्षा पैटर्न और तैयारी गाइड"
+  date: 2026-10-13
+  category: exam
+  excerptEn: AISSEE, RMS CET and JNVST compared – who can apply, subjects, marks and how parents in Rewari can prepare their child for Class 6 admission.
+  excerptHi: AISSEE, RMS CET और JNVST की तुलना – कौन आवेदन कर सकता है, विषय, अंक और कक्षा 6 प्रवेश की तैयारी कैसे करें।
+  bodyEn: |
+    Many parents in Rewari and nearby districts want their child to study in a **Sainik School**, a **Rashtriya Military School (RMS)** or a **Jawahar Navodaya Vidyalaya (JNV)**. All three admit students in Class 6 (and some in Class 9) through an entrance exam.
+
+    ## 1. Sainik School – AISSEE
+
+    - Conducted by the **National Testing Agency (NTA)**
+    - **Class 6:** 125 questions, 300 marks, 150 minutes – Mathematics (50 questions × 3 marks), Intelligence, Language and General Knowledge (25 questions × 2 marks each)
+    - **Class 9:** 150 questions, 400 marks – Maths, Intelligence, English, General Science and Social Studies
+    - No negative marking; the exam can be written in Hindi or English
+
+    ## 2. Rashtriya Military School – RMS CET
+
+    - Schools at Ajmer, Belagavi, Bengaluru, Chail and Dholpur
+    - **Class 6:** English, Intelligence, Mathematics and GK & Current Affairs – 50 marks each (200 marks)
+    - Based on the Class 5 CBSE syllabus; bilingual paper
+
+    ## 3. Navodaya – JNVST
+
+    - Conducted by **Navodaya Vidyalaya Samiti (NVS)** for the JNV in your own district
+    - **Class 6:** 80 questions, 100 marks, 2 hours – Mental Ability (40 questions), Arithmetic (20) and Language (20)
+    - Students must be studying in Class 5 in the same district
+
+    ## How to prepare
+
+    1. Start in **Class 4 or early Class 5**
+    2. Practise **mental ability** daily – it carries the most weight in JNVST
+    3. Build **Maths speed** – it carries half the marks in AISSEE Class 6
+    4. Read GK and current affairs every week
+    5. Solve **previous year papers** on OMR sheets
+
+    *Exam patterns are based on recent years. Always check the official notification for the latest details.*
+
+    SNS Institute, Rewari runs a dedicated batch for all three exams. Book a free demo class to know more.
+  seo:
+    title: Sainik School, RMS & Navodaya Entrance Exam Pattern 2027 – Guide
+    description: "AISSEE, RMS CET and JNVST compared: subjects, marks, eligibility and preparation tips for Class 6 admission. By SNS Institute, Rewari."
+
+- slug: neet-ug-2027-exam-pattern-eligibility-preparation
+  date: 2026-10-10
+  category: exam
+  titleEn: "NEET UG 2027: Exam Pattern, Eligibility and a Month-wise Preparation Plan"
+  titleHi: "NEET UG 2027: परीक्षा पैटर्न, योग्यता और महीनेवार तैयारी योजना"
+  excerptEn: Everything a class 12 or repeater student in Haryana needs to know about NEET UG 2027 – pattern, eligibility and how to plan the next few months.
+  excerptHi: NEET UG 2027 के बारे में हरियाणा के छात्रों के लिए ज़रूरी जानकारी – पैटर्न, योग्यता और तैयारी योजना।
+  bodyEn: |
+    NEET UG is conducted by the **National Testing Agency (NTA)**. The official dates, information bulletin and registration for NEET UG 2027 will be published on **neet.nta.nic.in** – always check the official website before relying on any date.
+
+    ## Who can appear
+
+    - Students who have passed or are appearing in class 12 with Physics, Chemistry, Biology and English
+    - Minimum age requirement as per the NTA bulletin
+
+    ## Exam pattern (as per recent years)
+
+    | Subject | Focus |
+    | --- | --- |
+    | Biology (Botany + Zoology) | Half of the paper – NCERT is the key |
+    | Physics | Numericals and concepts |
+    | Chemistry | NCERT for Inorganic, practice for Physical |
+
+    ## A simple preparation plan
+
+    1. **Till December** – finish the syllabus and make short notes
+    2. **January–February** – board exams + NCERT revision
+    3. **March–April** – full-length mock tests every week, analyse every mistake
+    4. **Last month** – revision only, no new topics
+
+    Need guidance? Book a free demo class at SNS Institute, Rewari.
+
+- slug: jee-main-2027-sessions-eligibility-how-to-prepare
+  date: 2026-10-05
+  category: exam
+  titleEn: "JEE Main 2027: Sessions, Eligibility and How to Prepare from Rewari"
+  titleHi: "JEE Main 2027: सेशन, योग्यता और रेवाड़ी से तैयारी कैसे करें"
+  excerptEn: JEE Main is held in two sessions. Here is what students of Rewari and nearby towns should know and how to plan their preparation.
+  excerptHi: JEE Main दो सेशन में होता है। रेवाड़ी और आसपास के छात्रों के लिए ज़रूरी जानकारी।
+  bodyEn: |
+    JEE Main is conducted by the **National Testing Agency (NTA)**, usually in **two sessions** (January and April). Official dates for 2027 will be announced on **jeemain.nta.nic.in**.
+
+    ## Why two sessions help
+
+    Students can appear in both sessions and the **better score** is considered. Use session 1 as a real-exam experience and improve in session 2.
+
+    ## How to prepare
+
+    - Finish NCERT for Physics, Chemistry and Maths first
+    - Solve previous year JEE Main questions chapter-wise
+    - Give at least one full-length mock test every week from November
+    - Keep board exam preparation going – it matters for admissions
+
+    ## JEE Advanced
+
+    Top scorers in JEE Main qualify for **JEE Advanced**, the exam for IIT admission.
+
+    SNS Institute runs JEE batches for class 11, 12 and droppers on Narnaul Road, Rewari.
+
+- slug: how-to-check-hbse-class-10-12-result
+  date: 2026-09-28
+  category: result
+  titleEn: How to Check HBSE Class 10 and 12 Result (Haryana Board)
+  titleHi: HBSE कक्षा 10 और 12 का रिज़ल्ट कैसे देखें (हरियाणा बोर्ड)
+  excerptEn: Step-by-step guide to checking your Haryana Board (BSEH) class 10 and class 12 result online.
+  excerptHi: हरियाणा बोर्ड (BSEH) कक्षा 10 और 12 का रिज़ल्ट ऑनलाइन देखने का आसान तरीका।
+  bodyEn: |
+    The Board of School Education Haryana (BSEH) publishes class 10 and 12 results on its official website **bseh.org.in**.
+
+    ## Steps to check your result
+
+    1. Open **bseh.org.in**
+    2. Click on the **Results** section
+    3. Select class 10 or class 12 (Secondary / Senior Secondary)
+    4. Enter your **roll number** and date of birth if asked
+    5. Download and save the marksheet
+
+    Keep your admit card ready before the result is announced. The original marksheet is given by your school later.
+  bodyHi: |
+    हरियाणा विद्यालय शिक्षा बोर्ड (BSEH) कक्षा 10 और 12 का रिज़ल्ट अपनी आधिकारिक वेबसाइट **bseh.org.in** पर जारी करता है।
+
+    ## रिज़ल्ट देखने के स्टेप
+
+    1. **bseh.org.in** खोलें
+    2. **Results** सेक्शन पर क्लिक करें
+    3. कक्षा 10 या 12 चुनें
+    4. अपना **रोल नंबर** और जन्म तिथि डालें
+    5. मार्कशीट डाउनलोड करके सेव करें
+
+    रिज़ल्ट आने से पहले अपना एडमिट कार्ड तैयार रखें।

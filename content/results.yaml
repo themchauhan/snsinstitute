@@ -1,0 +1,71 @@
+# TOPPERS / RESULTS
+# Add a new topper by copying a block and pasting it at the TOP of its year.
+# Order in this file = order on the site (within each year; newest year shows first).
+#
+# - name: Student Name
+#   exam: NEET 2026                 # shown under the name
+#   year: 2026
+#   achievement: AIR 1520           # rank / score / percentage
+#   category: neet                  # jee | neet | sainik | board | class | higher | other
+#   place: Kosli                    # optional – town or school
+#   photo: /images/results/student-name.jpg   # optional – put the file in public/images/results/
+#   featured: true                  # true = also show on the home page
+#   quoteEn: "SNS teachers..."      # optional – shown in the Topper spotlight
+#   quoteHi: "..."                  # optional
+
+- name: Harsh
+  exam: IIT JAM 2023
+  year: 2023
+  achievement: AIR 59
+  place: Rewari
+  featured: true
+  category: higher
+
+- name: Akshma
+  exam: Class Topper – Feb 2023
+  year: 2023
+  achievement: 1st in class
+  featured: true
+  category: class
+
+- name: Rohit
+  exam: Class Topper – Feb 2023
+  year: 2023
+  achievement: 1st in class
+  featured: true
+  category: class
+
+- name: Sahil
+  exam: Class Topper – Feb 2023
+  year: 2023
+  achievement: 1st in class
+  featured: true
+  category: class
+
+- name: Sheetal
+  exam: Class Topper – Feb 2023
+  year: 2023
+  achievement: 1st in class
+  featured: true
+  category: class
+
+- name: Ujjwal
+  exam: Class Topper – Feb 2023
+  year: 2023
+  achievement: 1st in class
+  featured: true
+  category: class
+
+- name: Vashu
+  exam: Class Topper – Feb 2023
+  year: 2023
+  achievement: 1st in class
+  featured: true
+  category: class
+
+- name: Vishal
+  exam: Class Topper – Feb 2023
+  year: 2023
+  achievement: 1st in class
+  featured: true
+  category: class

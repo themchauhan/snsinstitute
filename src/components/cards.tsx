@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { formatDate, getDict, href, pick, type Locale } from '@/lib/i18n';
-import type { CourseEntry, PostEntry } from '@/lib/content';
+import type { CourseEntry, Entry, Faculty as FacultyData, PostEntry, Result as ResultData } from '@/lib/content';
 import { Icon } from './Icon';
 import { Avatar } from './ui';
 
@@ -23,7 +23,7 @@ export function CourseCard({ lang, course }: { lang: Locale; course: CourseEntry
   );
 }
 
-type Result = { slug: string; entry: { name: string; exam: string; achievement: string; place: string; photo: string | null; year: number } };
+type Result = Entry<ResultData>;
 
 export function ResultCard({ r }: { r: Result }) {
   return (
@@ -37,22 +37,7 @@ export function ResultCard({ r }: { r: Result }) {
   );
 }
 
-type Faculty = {
-  slug: string;
-  entry: {
-    name: string;
-    subject: string;
-    qualification: string;
-    experience: string;
-    photo: string | null;
-    roleEn?: string;
-    roleHi?: string;
-    teaches?: readonly string[];
-    bioEn?: string;
-    bioHi?: string;
-    highlights?: readonly { en: string; hi: string }[];
-  };
-};
+type Faculty = Entry<FacultyData>;
 
 export function FacultyCard({ lang, f }: { lang: Locale; f: Faculty }) {
   const t = getDict(lang);

@@ -1,0 +1,47 @@
+# NEARBY TOWN PAGES  →  /coaching-near/<town>
+# Add a town by pasting a block. The address is made from the town name (e.g. Rewari Cantt → /coaching-near/rewari-cantt).
+# Write a different intro for every town (copy-paste text hurts Google ranking).
+#
+# - town: Nahar
+#   townHi: नाहड़
+#   distanceKm: 25
+#   introEn: Why students from this town choose SNS...
+#   introHi: ...
+#   travelEn: How to reach – bus / train / time...
+#   travelHi: ...
+
+- town: Bawal
+  townHi: बावल
+  distanceKm: 15
+  travelEn: Take a bus or shared auto from Bawal to Rewari (about 25–30 minutes). From Rewari bus stand, Gopal Dev Chowk on Narnaul Road is a short auto ride.
+  introEn: Bawal students preparing for JEE, NEET or board exams don't need to go to Gurugram or Jaipur. SNS Institute on Narnaul Road, Rewari is a short daily trip, with batches timed so that students can reach comfortably after school.
+
+- town: Dharuhera
+  townHi: धारूहेड़ा
+  distanceKm: 20
+  travelEn: Regular buses run from Dharuhera to Rewari on the Rewari–Dharuhera road (about 30–40 minutes). Get down at Rewari bus stand and take an auto to Gopal Dev Chowk, Narnaul Road.
+  introEn: Many families in Dharuhera choose SNS Institute for JEE, NEET and class 9–12 tuition because of small batches, subject experts and regular tests – at a fraction of the cost and travel of Gurugram coaching.
+
+- town: Jatusana
+  townHi: जाटूसाना
+  distanceKm: 20
+  travelEn: Buses run frequently from Jatusana to Rewari (about 30 minutes). Gopal Dev Chowk on Narnaul Road is a short auto ride from Rewari bus stand.
+  introEn: Jatusana students get expert coaching for JEE, NEET, foundation and class 5–12 tuition at SNS Institute, Rewari – close enough for a daily commute.
+
+- town: Kosli
+  townHi: कोसली
+  distanceKm: 30
+  travelEn: Kosli is connected to Rewari by train and bus (about 40–50 minutes). From Rewari railway station or bus stand, take an auto to Gopal Dev Chowk on Narnaul Road.
+  introEn: Students from Kosli and surrounding villages study at SNS Institute for NEET, JEE and board exam preparation. Batch timings can be planned around train and bus schedules.
+
+- town: Kanina
+  townHi: कनीना
+  distanceKm: 35
+  travelEn: Take a bus from Kanina towards Rewari (about 45–60 minutes). The institute is on Narnaul Road at Gopal Dev Chowk, on the way into Rewari.
+  introEn: Kanina students preparing for NEET and JEE come to SNS Institute in Rewari for subject experts and regular test practice. Since the institute is on Narnaul Road, it is easy to reach from the Mahendragarh side.
+
+- town: Mahendragarh
+  townHi: महेंद्रगढ़
+  distanceKm: 50
+  travelEn: Mahendragarh to Rewari is about 1–1.5 hours by bus or train. The institute is on Narnaul Road, Rewari – convenient when coming from the Mahendragarh / Narnaul side.
+  introEn: Students from Mahendragarh district choose SNS Institute for NEET and JEE preparation. Outstation students can contact us for help with nearby PG / hostel options in Rewari.

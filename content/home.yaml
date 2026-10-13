@@ -1,81 +1,54 @@
-{
-  "announcementEn": "Admissions open for 2027 batches – JEE, NEET, Foundation & Class 5–12.",
-  "announcementHi": "2027 बैच के लिए एडमिशन शुरू – JEE, NEET, फाउंडेशन और कक्षा 5–12।",
-  "heroTitleEn": "Rewari's trusted coaching for JEE, NEET & Class 5–12",
-  "heroTitleHi": "तैयारी करें जीत की – रेवाड़ी में JEE, NEET और कक्षा 5–12 की कोचिंग",
-  "heroTextEn": "Specialised teachers for every subject, small batches and regular tests – right here on Narnaul Road, Rewari. Book a free demo class today.",
-  "heroTextHi": "हर विषय के लिए विशेषज्ञ शिक्षक, छोटे बैच और नियमित टेस्ट – नारनौल रोड, रेवाड़ी में। आज ही फ्री डेमो क्लास बुक करें।",
-  "heroImage": "/images/home/award-ceremony.jpg",
-  "stats": [
-    {
-      "value": "2018",
-      "labelEn": "Teaching since",
-      "labelHi": "से पढ़ा रहे हैं"
-    },
-    {
-      "value": "5.0★",
-      "labelEn": "Google rating",
-      "labelHi": "गूगल रेटिंग"
-    },
-    {
-      "value": "94+",
-      "labelEn": "Google reviews",
-      "labelHi": "गूगल रिव्यू"
-    },
-    {
-      "value": "6+",
-      "labelEn": "Subject experts",
-      "labelHi": "विषय विशेषज्ञ"
-    }
-  ],
-  "why": [
-    {
-      "titleEn": "Specialised teacher for every subject",
-      "titleHi": "हर विषय के लिए विशेषज्ञ शिक्षक",
-      "textEn": "Physics, Chemistry, Biology, Maths and English are taught by separate subject experts.",
-      "textHi": "भौतिकी, रसायन, जीव विज्ञान, गणित और अंग्रेज़ी – हर विषय के अलग विशेषज्ञ शिक्षक।"
-    },
-    {
-      "titleEn": "Small batches, personal attention",
-      "titleHi": "छोटे बैच, व्यक्तिगत ध्यान",
-      "textEn": "Every student is known by name. Doubts are cleared in class, not left for later.",
-      "textHi": "हर छात्र पर ध्यान। डाउट्स क्लास में ही हल किए जाते हैं।"
-    },
-    {
-      "titleEn": "Regular tests & doubt sessions",
-      "titleHi": "नियमित टेस्ट और डाउट सेशन",
-      "textEn": "Chapter tests and full-length mock tests in the real exam pattern, with result analysis.",
-      "textHi": "असली परीक्षा पैटर्न पर चैप्टर टेस्ट और मॉक टेस्ट, विश्लेषण के साथ।"
-    },
-    {
-      "titleEn": "Hindi + English explanation",
-      "titleHi": "हिंदी + अंग्रेज़ी में समझाना",
-      "textEn": "Concepts are explained in the language the student understands best.",
-      "textHi": "छात्र जिस भाषा में बेहतर समझे, उसी में समझाया जाता है।"
-    },
-    {
-      "titleEn": "Hostel facility available",
-      "titleHi": "हॉस्टल सुविधा उपलब्ध",
-      "textEn": "Students from other cities can stay close to the institute and focus fully on preparation.",
-      "textHi": "दूसरे शहरों के छात्र इंस्टीट्यूट के पास रहकर पूरी तरह तैयारी पर ध्यान दे सकते हैं।"
-    }
-  ],
-  "seo": {
-    "title": "",
-    "description": ""
-  },
-  "exams": [
-    "JEE Main",
-    "JEE Advanced",
-    "NEET-UG",
-    "Sainik School (AISSEE)",
-    "RMS CET",
-    "Navodaya (JNVST)",
-    "CBSE Board",
-    "HBSE Board",
-    "NTSE",
-    "Olympiads",
-    "CUET",
-    "IIT JAM"
-  ]
-}
+announcementEn: Admissions open for 2027 batches – JEE, NEET, Foundation & Class 5–12.
+announcementHi: 2027 बैच के लिए एडमिशन शुरू – JEE, NEET, फाउंडेशन और कक्षा 5–12।
+heroTitleEn: Rewari's trusted coaching for JEE, NEET & Class 5–12
+heroTitleHi: तैयारी करें जीत की – रेवाड़ी में JEE, NEET और कक्षा 5–12 की कोचिंग
+heroTextEn: Specialised teachers for every subject, small batches and regular tests – right here on Narnaul Road, Rewari. Book a free demo class today.
+heroTextHi: हर विषय के लिए विशेषज्ञ शिक्षक, छोटे बैच और नियमित टेस्ट – नारनौल रोड, रेवाड़ी में। आज ही फ्री डेमो क्लास बुक करें।
+heroImage: /images/home/award-ceremony.jpg
+stats:
+  - value: "2018"
+    labelEn: Teaching since
+    labelHi: से पढ़ा रहे हैं
+  - value: 5.0★
+    labelEn: Google rating
+    labelHi: गूगल रेटिंग
+  - value: 94+
+    labelEn: Google reviews
+    labelHi: गूगल रिव्यू
+  - value: 6+
+    labelEn: Subject experts
+    labelHi: विषय विशेषज्ञ
+why:
+  - titleEn: Specialised teacher for every subject
+    titleHi: हर विषय के लिए विशेषज्ञ शिक्षक
+    textEn: Physics, Chemistry, Biology, Maths and English are taught by separate subject experts.
+    textHi: भौतिकी, रसायन, जीव विज्ञान, गणित और अंग्रेज़ी – हर विषय के अलग विशेषज्ञ शिक्षक।
+  - titleEn: Small batches, personal attention
+    titleHi: छोटे बैच, व्यक्तिगत ध्यान
+    textEn: Every student is known by name. Doubts are cleared in class, not left for later.
+    textHi: हर छात्र पर ध्यान। डाउट्स क्लास में ही हल किए जाते हैं।
+  - titleEn: Regular tests & doubt sessions
+    titleHi: नियमित टेस्ट और डाउट सेशन
+    textEn: Chapter tests and full-length mock tests in the real exam pattern, with result analysis.
+    textHi: असली परीक्षा पैटर्न पर चैप्टर टेस्ट और मॉक टेस्ट, विश्लेषण के साथ।
+  - titleEn: Hindi + English explanation
+    titleHi: हिंदी + अंग्रेज़ी में समझाना
+    textEn: Concepts are explained in the language the student understands best.
+    textHi: छात्र जिस भाषा में बेहतर समझे, उसी में समझाया जाता है।
+  - titleEn: Hostel facility available
+    titleHi: हॉस्टल सुविधा उपलब्ध
+    textEn: Students from other cities can stay close to the institute and focus fully on preparation.
+    textHi: दूसरे शहरों के छात्र इंस्टीट्यूट के पास रहकर पूरी तरह तैयारी पर ध्यान दे सकते हैं।
+exams:
+  - JEE Main
+  - JEE Advanced
+  - NEET-UG
+  - Sainik School (AISSEE)
+  - RMS CET
+  - Navodaya (JNVST)
+  - CBSE Board
+  - HBSE Board
+  - NTSE
+  - Olympiads
+  - CUET
+  - IIT JAM

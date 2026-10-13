@@ -1,0 +1,56 @@
+# UPCOMING BATCHES
+# Order in this file = order on the site. "active: false" hides a batch.
+#
+# - nameEn: NEET Repeater Batch
+#   nameHi: NEET रिपीटर बैच
+#   forEn: Class 12 pass students
+#   forHi: कक्षा 12 पास छात्र
+#   startDate: 2027-05-25           # optional (YYYY-MM-DD)
+#   fee: ₹11,500                     # optional
+#   tagEn: Limited seats             # optional badge
+#   tagHi: सीमित सीटें
+#   course: neet-coaching-rewari     # optional – file name from content/courses/
+#   active: true
+
+- nameEn: JEE & NEET Two-Year Batch
+  nameHi: JEE और NEET दो वर्षीय बैच
+  active: true
+  forEn: Students moving to Class 11
+  forHi: कक्षा 11 में जाने वाले छात्र
+  tagEn: Registration open
+  tagHi: रजिस्ट्रेशन शुरू
+
+- nameEn: Foundation Batch – Class 6 to 10
+  nameHi: फाउंडेशन बैच – कक्षा 6 से 10
+  active: true
+  forEn: Build a strong base for JEE / NEET / Olympiads
+  forHi: JEE / NEET / ओलंपियाड की मज़बूत नींव
+  tagEn: Admissions open
+  tagHi: एडमिशन शुरू
+
+- nameEn: Sainik School, RMS & Navodaya Batch
+  nameHi: सैनिक स्कूल, RMS और नवोदय बैच
+  active: true
+  course: sainik-school-military-school-navodaya-coaching-rewari
+  forEn: Class 5 & 8 students
+  forHi: कक्षा 5 और 8 के छात्र
+  tagEn: Admissions open
+  tagHi: एडमिशन शुरू
+
+- nameEn: Board Exam Batch – Class 10 & 12
+  nameHi: बोर्ड परीक्षा बैच – कक्षा 10 और 12
+  active: true
+  forEn: CBSE & HBSE students
+  forHi: CBSE और HBSE छात्र
+  tagEn: Limited seats
+  tagHi: सीमित सीटें
+
+- nameEn: Re-NEET Rank Booster Batch
+  nameHi: री-NEET रैंक बूस्टर बैच
+  active: false
+  startDate: 2026-05-25
+  forEn: NEET repeaters – full syllabus revision + test series
+  forHi: NEET रिपीटर – पूरा सिलेबस रिवीज़न + टेस्ट सीरीज़
+  fee: ₹11,500 (coaching + test series + stay + food)
+  tagEn: Limited seats
+  tagHi: सीमित सीटें

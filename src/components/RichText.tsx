@@ -1,7 +1,7 @@
 import Markdoc, { type Node } from '@markdoc/markdoc';
 import React from 'react';
 
-/** Renders rich text written in the Keystatic editor. */
+/** Renders Markdown text from the content files (course descriptions, articles, About story). */
 export function RichText({ node }: { node?: { node: Node } | null }) {
   if (!node?.node) return null;
   const errors = Markdoc.validate(node.node);

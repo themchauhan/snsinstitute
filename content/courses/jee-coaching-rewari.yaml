@@ -1,150 +1,163 @@
-{
-  "titleEn": "IIT-JEE Coaching",
-  "titleHi": "IIT-JEE कोचिंग",
-  "order": 1,
-  "icon": "atom",
-  "classesEn": "Class 11, 12 & droppers",
-  "classesHi": "कक्षा 11, 12 और ड्रॉपर",
-  "durationEn": "1 year / 2 years",
-  "durationHi": "1 वर्ष / 2 वर्ष",
-  "summaryEn": "Complete preparation for JEE Main and JEE Advanced with Physics, Chemistry and Maths experts, along with board exam support.",
-  "summaryHi": "भौतिकी, रसायन और गणित विशेषज्ञों के साथ JEE Main और JEE Advanced की पूरी तैयारी, बोर्ड परीक्षा सहित।",
-  "highlights": [
-    {
-      "en": "Concept-first teaching of Physics, Chemistry & Maths",
-      "hi": "भौतिकी, रसायन और गणित – कॉन्सेप्ट से पढ़ाई"
-    },
-    {
-      "en": "Weekly tests in JEE Main pattern",
-      "hi": "JEE Main पैटर्न पर साप्ताहिक टेस्ट"
-    },
-    {
-      "en": "JEE Advanced level problem-solving sessions",
-      "hi": "JEE Advanced स्तर के प्रश्न अभ्यास"
-    },
-    {
-      "en": "Board exam preparation alongside",
-      "hi": "साथ में बोर्ड परीक्षा की तैयारी"
-    },
-    {
-      "en": "Daily doubt clearing",
-      "hi": "रोज़ डाउट क्लियरिंग"
-    },
-    {
-      "en": "Dropper / repeater batch available",
-      "hi": "ड्रॉपर बैच उपलब्ध"
-    }
-  ],
-  "subjects": [
-    "Physics",
-    "Chemistry",
-    "Mathematics"
-  ],
-  "fee": "Call for fee details",
-  "bodyEn": "## JEE coaching in Rewari\n\nOur IIT-JEE programme prepares students of class 11, class 12 and droppers for **JEE Main** and **JEE Advanced**. Classes are taken by separate experts for Physics, Chemistry and Mathematics.\n\n### What the programme includes\n\n- Complete JEE syllabus, taught from basics to advanced level\n- Printed study material and practice sheets\n- Weekly chapter tests and full-length mock tests in the JEE pattern\n- Test analysis and one-to-one feedback\n- Preparation for CBSE / HBSE board exams along with JEE\n\n",
-  "bodyHi": "## रेवाड़ी में JEE कोचिंग\n\nहमारा IIT-JEE प्रोग्राम कक्षा 11, 12 और ड्रॉपर छात्रों को **JEE Main** और **JEE Advanced** के लिए तैयार करता है। भौतिकी, रसायन और गणित के अलग-अलग विशेषज्ञ शिक्षक पढ़ाते हैं।\n\n### प्रोग्राम में क्या मिलता है\n\n- पूरा JEE सिलेबस – बेसिक से एडवांस तक\n- स्टडी मटेरियल और प्रैक्टिस शीट\n- JEE पैटर्न पर साप्ताहिक और फुल-लेंथ मॉक टेस्ट\n- टेस्ट विश्लेषण और व्यक्तिगत फीडबैक\n- साथ में CBSE / HBSE बोर्ड की तैयारी\n",
-  "seo": {
-    "title": "IIT JEE Main & Advanced Coaching in Rewari | SNS Institute",
-    "description": "JEE Main and Advanced coaching in Rewari for class 11, 12 and droppers. Expert Physics, Chemistry and Maths faculty, weekly tests, doubt sessions. Free demo class."
-  },
-  "image": null,
-  "whoFor": [
-    {
-      "en": "Class 11 students aiming for IIT, NIT or IIIT",
-      "hi": "IIT, NIT या IIIT का लक्ष्य रखने वाले कक्षा 11 के छात्र"
-    },
-    {
-      "en": "Class 12 students who want to prepare for JEE with boards",
-      "hi": "बोर्ड के साथ JEE की तैयारी करने वाले कक्षा 12 के छात्र"
-    },
-    {
-      "en": "Droppers who want one focused year of preparation",
-      "hi": "एक साल पूरी तरह फोकस्ड तैयारी करने वाले ड्रॉपर"
-    },
-    {
-      "en": "Students strong in Maths & Science who enjoy problem solving",
-      "hi": "गणित-विज्ञान में अच्छे और प्रश्न हल करना पसंद करने वाले छात्र"
-    }
-  ],
-  "syllabus": [
-    {
-      "subject": "Physics",
-      "topicsEn": "Units & Measurements\nKinematics\nLaws of Motion\nWork, Energy & Power\nRotational Motion\nGravitation\nProperties of Solids & Liquids\nThermodynamics & Kinetic Theory\nOscillations & Waves\nElectrostatics\nCurrent Electricity\nMagnetism & Moving Charges\nEMI & Alternating Current\nOptics\nModern Physics\nSemiconductors",
-      "topicsHi": ""
-    },
-    {
-      "subject": "Chemistry",
-      "topicsEn": "Mole Concept\nAtomic Structure\nChemical Bonding\nThermodynamics\nEquilibrium\nRedox & Electrochemistry\nChemical Kinetics\nSolutions\nPeriodic Table\np-, d- & f-Block Elements\nCoordination Compounds\nGeneral Organic Chemistry\nHydrocarbons\nHaloalkanes & Haloarenes\nAlcohols, Phenols & Ethers\nAldehydes, Ketones & Acids\nAmines\nBiomolecules",
-      "topicsHi": ""
-    },
-    {
-      "subject": "Mathematics",
-      "topicsEn": "Sets, Relations & Functions\nComplex Numbers\nQuadratic Equations\nMatrices & Determinants\nPermutations & Combinations\nBinomial Theorem\nSequences & Series\nLimits, Continuity & Differentiability\nApplications of Derivatives\nIntegral Calculus\nDifferential Equations\nCoordinate Geometry\n3D Geometry & Vectors\nTrigonometry\nStatistics & Probability",
-      "topicsHi": ""
-    }
-  ],
-  "features": [
-    {
-      "titleEn": "Printed study material",
-      "titleHi": "प्रिंटेड स्टडी मटेरियल",
-      "textEn": "Chapter-wise notes, formula sheets and practice questions prepared by our teachers.",
-      "textHi": "शिक्षकों द्वारा तैयार चैप्टर-वार नोट्स, फॉर्मूला शीट और प्रैक्टिस प्रश्न।"
-    },
-    {
-      "titleEn": "Weekly tests",
-      "titleHi": "साप्ताहिक टेस्ट",
-      "textEn": "Tests in the real exam pattern every week, followed by discussion of every mistake.",
-      "textHi": "हर हफ्ते असली परीक्षा पैटर्न पर टेस्ट, फिर हर गलती पर चर्चा।"
-    },
-    {
-      "titleEn": "Daily doubt sessions",
-      "titleHi": "रोज़ डाउट सेशन",
-      "textEn": "Ask any doubt after class – teachers are available every day.",
-      "textHi": "क्लास के बाद कोई भी डाउट पूछें – शिक्षक रोज़ उपलब्ध।"
-    },
-    {
-      "titleEn": "Progress reports for parents",
-      "titleHi": "अभिभावकों के लिए प्रगति रिपोर्ट",
-      "textEn": "Parents stay updated on test scores, attendance and areas to improve.",
-      "textHi": "टेस्ट स्कोर, उपस्थिति और सुधार के बिंदुओं की जानकारी।"
-    },
-    {
-      "titleEn": "Small batches",
-      "titleHi": "छोटे बैच",
-      "textEn": "Limited students per batch so every student gets attention.",
-      "textHi": "हर बैच में सीमित छात्र, ताकि सब पर ध्यान दिया जा सके।"
-    },
-    {
-      "titleEn": "Hindi + English teaching",
-      "titleHi": "हिंदी + अंग्रेज़ी में पढ़ाई",
-      "textEn": "Concepts explained in the language each student understands best.",
-      "textHi": "हर छात्र जिस भाषा में बेहतर समझे, उसमें समझाया जाता है।"
-    }
-  ],
-  "roadmap": [
-    {
-      "titleEn": "Build concepts",
-      "titleHi": "कॉन्सेप्ट मज़बूत करें",
-      "textEn": "Class 11 syllabus from basics with NCERT and daily practice.",
-      "textHi": "NCERT और रोज़ अभ्यास के साथ कक्षा 11 का सिलेबस बेसिक से।"
-    },
-    {
-      "titleEn": "Solve harder problems",
-      "titleHi": "कठिन प्रश्न हल करें",
-      "textEn": "Class 12 syllabus with JEE Main & Advanced level problem solving.",
-      "textHi": "JEE Main और Advanced स्तर के प्रश्नों के साथ कक्षा 12 का सिलेबस।"
-    },
-    {
-      "titleEn": "Revise for boards & JEE Main",
-      "titleHi": "बोर्ड और JEE Main रिवीज़न",
-      "textEn": "Full revision, previous year papers and board exam preparation.",
-      "textHi": "पूरा रिवीज़न, पिछले वर्ष के पेपर और बोर्ड की तैयारी।"
-    },
-    {
-      "titleEn": "Mock tests & final push",
-      "titleHi": "मॉक टेस्ट और अंतिम तैयारी",
-      "textEn": "Full-length mock tests, analysis and JEE Advanced practice.",
-      "textHi": "फुल-लेंथ मॉक टेस्ट, विश्लेषण और JEE Advanced अभ्यास।"
-    }
-  ]
-}
+titleEn: IIT-JEE Coaching
+titleHi: IIT-JEE कोचिंग
+order: 1
+icon: atom
+classesEn: Class 11, 12 & droppers
+classesHi: कक्षा 11, 12 और ड्रॉपर
+durationEn: 1 year / 2 years
+durationHi: 1 वर्ष / 2 वर्ष
+summaryEn: Complete preparation for JEE Main and JEE Advanced with Physics, Chemistry and Maths experts, along with board exam support.
+summaryHi: भौतिकी, रसायन और गणित विशेषज्ञों के साथ JEE Main और JEE Advanced की पूरी तैयारी, बोर्ड परीक्षा सहित।
+highlights:
+  - en: Concept-first teaching of Physics, Chemistry & Maths
+    hi: भौतिकी, रसायन और गणित – कॉन्सेप्ट से पढ़ाई
+  - en: Weekly tests in JEE Main pattern
+    hi: JEE Main पैटर्न पर साप्ताहिक टेस्ट
+  - en: JEE Advanced level problem-solving sessions
+    hi: JEE Advanced स्तर के प्रश्न अभ्यास
+  - en: Board exam preparation alongside
+    hi: साथ में बोर्ड परीक्षा की तैयारी
+  - en: Daily doubt clearing
+    hi: रोज़ डाउट क्लियरिंग
+  - en: Dropper / repeater batch available
+    hi: ड्रॉपर बैच उपलब्ध
+subjects:
+  - Physics
+  - Chemistry
+  - Mathematics
+fee: Call for fee details
+bodyEn: |+
+  ## JEE coaching in Rewari
+
+  Our IIT-JEE programme prepares students of class 11, class 12 and droppers for **JEE Main** and **JEE Advanced**. Classes are taken by separate experts for Physics, Chemistry and Mathematics.
+
+  ### What the programme includes
+
+  - Complete JEE syllabus, taught from basics to advanced level
+  - Printed study material and practice sheets
+  - Weekly chapter tests and full-length mock tests in the JEE pattern
+  - Test analysis and one-to-one feedback
+  - Preparation for CBSE / HBSE board exams along with JEE
+
+bodyHi: |
+  ## रेवाड़ी में JEE कोचिंग
+
+  हमारा IIT-JEE प्रोग्राम कक्षा 11, 12 और ड्रॉपर छात्रों को **JEE Main** और **JEE Advanced** के लिए तैयार करता है। भौतिकी, रसायन और गणित के अलग-अलग विशेषज्ञ शिक्षक पढ़ाते हैं।
+
+  ### प्रोग्राम में क्या मिलता है
+
+  - पूरा JEE सिलेबस – बेसिक से एडवांस तक
+  - स्टडी मटेरियल और प्रैक्टिस शीट
+  - JEE पैटर्न पर साप्ताहिक और फुल-लेंथ मॉक टेस्ट
+  - टेस्ट विश्लेषण और व्यक्तिगत फीडबैक
+  - साथ में CBSE / HBSE बोर्ड की तैयारी
+seo:
+  title: IIT JEE Main & Advanced Coaching in Rewari | SNS Institute
+  description: JEE Main and Advanced coaching in Rewari for class 11, 12 and droppers. Expert Physics, Chemistry and Maths faculty, weekly tests, doubt sessions. Free demo class.
+whoFor:
+  - en: Class 11 students aiming for IIT, NIT or IIIT
+    hi: IIT, NIT या IIIT का लक्ष्य रखने वाले कक्षा 11 के छात्र
+  - en: Class 12 students who want to prepare for JEE with boards
+    hi: बोर्ड के साथ JEE की तैयारी करने वाले कक्षा 12 के छात्र
+  - en: Droppers who want one focused year of preparation
+    hi: एक साल पूरी तरह फोकस्ड तैयारी करने वाले ड्रॉपर
+  - en: Students strong in Maths & Science who enjoy problem solving
+    hi: गणित-विज्ञान में अच्छे और प्रश्न हल करना पसंद करने वाले छात्र
+syllabus:
+  - subject: Physics
+    topicsEn: |-
+      Units & Measurements
+      Kinematics
+      Laws of Motion
+      Work, Energy & Power
+      Rotational Motion
+      Gravitation
+      Properties of Solids & Liquids
+      Thermodynamics & Kinetic Theory
+      Oscillations & Waves
+      Electrostatics
+      Current Electricity
+      Magnetism & Moving Charges
+      EMI & Alternating Current
+      Optics
+      Modern Physics
+      Semiconductors
+  - subject: Chemistry
+    topicsEn: |-
+      Mole Concept
+      Atomic Structure
+      Chemical Bonding
+      Thermodynamics
+      Equilibrium
+      Redox & Electrochemistry
+      Chemical Kinetics
+      Solutions
+      Periodic Table
+      p-, d- & f-Block Elements
+      Coordination Compounds
+      General Organic Chemistry
+      Hydrocarbons
+      Haloalkanes & Haloarenes
+      Alcohols, Phenols & Ethers
+      Aldehydes, Ketones & Acids
+      Amines
+      Biomolecules
+  - subject: Mathematics
+    topicsEn: |-
+      Sets, Relations & Functions
+      Complex Numbers
+      Quadratic Equations
+      Matrices & Determinants
+      Permutations & Combinations
+      Binomial Theorem
+      Sequences & Series
+      Limits, Continuity & Differentiability
+      Applications of Derivatives
+      Integral Calculus
+      Differential Equations
+      Coordinate Geometry
+      3D Geometry & Vectors
+      Trigonometry
+      Statistics & Probability
+features:
+  - titleEn: Printed study material
+    titleHi: प्रिंटेड स्टडी मटेरियल
+    textEn: Chapter-wise notes, formula sheets and practice questions prepared by our teachers.
+    textHi: शिक्षकों द्वारा तैयार चैप्टर-वार नोट्स, फॉर्मूला शीट और प्रैक्टिस प्रश्न।
+  - titleEn: Weekly tests
+    titleHi: साप्ताहिक टेस्ट
+    textEn: Tests in the real exam pattern every week, followed by discussion of every mistake.
+    textHi: हर हफ्ते असली परीक्षा पैटर्न पर टेस्ट, फिर हर गलती पर चर्चा।
+  - titleEn: Daily doubt sessions
+    titleHi: रोज़ डाउट सेशन
+    textEn: Ask any doubt after class – teachers are available every day.
+    textHi: क्लास के बाद कोई भी डाउट पूछें – शिक्षक रोज़ उपलब्ध।
+  - titleEn: Progress reports for parents
+    titleHi: अभिभावकों के लिए प्रगति रिपोर्ट
+    textEn: Parents stay updated on test scores, attendance and areas to improve.
+    textHi: टेस्ट स्कोर, उपस्थिति और सुधार के बिंदुओं की जानकारी।
+  - titleEn: Small batches
+    titleHi: छोटे बैच
+    textEn: Limited students per batch so every student gets attention.
+    textHi: हर बैच में सीमित छात्र, ताकि सब पर ध्यान दिया जा सके।
+  - titleEn: Hindi + English teaching
+    titleHi: हिंदी + अंग्रेज़ी में पढ़ाई
+    textEn: Concepts explained in the language each student understands best.
+    textHi: हर छात्र जिस भाषा में बेहतर समझे, उसमें समझाया जाता है।
+roadmap:
+  - titleEn: Build concepts
+    titleHi: कॉन्सेप्ट मज़बूत करें
+    textEn: Class 11 syllabus from basics with NCERT and daily practice.
+    textHi: NCERT और रोज़ अभ्यास के साथ कक्षा 11 का सिलेबस बेसिक से।
+  - titleEn: Solve harder problems
+    titleHi: कठिन प्रश्न हल करें
+    textEn: Class 12 syllabus with JEE Main & Advanced level problem solving.
+    textHi: JEE Main और Advanced स्तर के प्रश्नों के साथ कक्षा 12 का सिलेबस।
+  - titleEn: Revise for boards & JEE Main
+    titleHi: बोर्ड और JEE Main रिवीज़न
+    textEn: Full revision, previous year papers and board exam preparation.
+    textHi: पूरा रिवीज़न, पिछले वर्ष के पेपर और बोर्ड की तैयारी।
+  - titleEn: Mock tests & final push
+    titleHi: मॉक टेस्ट और अंतिम तैयारी
+    textEn: Full-length mock tests, analysis and JEE Advanced practice.
+    textHi: फुल-लेंथ मॉक टेस्ट, विश्लेषण और JEE Advanced अभ्यास।

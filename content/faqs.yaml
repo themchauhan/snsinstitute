@@ -1,0 +1,86 @@
+# FAQs
+# Order in this file = order on the site.
+# Without "course:" the FAQ shows on the home & courses pages.
+# With "course: <file name from content/courses/>" it shows on that course page.
+#
+# - questionEn: Question?
+#   questionHi: प्रश्न?
+#   answerEn: Answer.
+#   answerHi: उत्तर।
+#   course: neet-coaching-rewari     # optional
+
+- questionEn: Do you offer a free demo class?
+  questionHi: क्या फ्री डेमो क्लास मिलती है?
+  answerEn: Yes. You can attend a free demo class, meet the teachers and then decide. Call or WhatsApp us to book a slot.
+  answerHi: हाँ। आप फ्री डेमो क्लास अटेंड कर सकते हैं, शिक्षकों से मिल सकते हैं और फिर फैसला कर सकते हैं। स्लॉट बुक करने के लिए कॉल या व्हाट्सएप करें।
+
+- questionEn: Where is SNS Institute located in Rewari?
+  questionHi: SNS इंस्टीट्यूट रेवाड़ी में कहाँ है?
+  answerEn: We are at Gopal Dev Chowk, Narnaul Road, Saini Mohalla, Rewari (Haryana) 123401. Use the "Get directions" button on the contact page.
+  answerHi: हम गोपाल देव चौक, नारनौल रोड, सैनी मोहल्ला, रेवाड़ी (हरियाणा) 123401 पर हैं।
+
+- questionEn: Which classes and courses do you teach?
+  questionHi: आप कौन-सी कक्षाएँ और कोर्स पढ़ाते हैं?
+  answerEn: IIT-JEE (Main & Advanced), NEET-UG, IIT/NEET foundation for class 6–10, and tuition for class 5–12 (CBSE and HBSE).
+  answerHi: IIT-JEE (Main और Advanced), NEET-UG, कक्षा 6–10 के लिए फाउंडेशन, और कक्षा 5–12 (CBSE और HBSE) की ट्यूशन।
+
+- questionEn: Do you prepare students for Sainik School and Navodaya entrance exams?
+  questionHi: क्या आप सैनिक स्कूल और नवोदय प्रवेश परीक्षा की तैयारी करवाते हैं?
+  answerEn: Yes. We run a dedicated batch for Sainik School (AISSEE), Rashtriya Military School (RMS CET) and Navodaya (JNVST) entrance for Class 5 and Class 8 students.
+  answerHi: हाँ। कक्षा 5 और 8 के छात्रों के लिए सैनिक स्कूल (AISSEE), राष्ट्रीय मिलिट्री स्कूल (RMS CET) और नवोदय (JNVST) का विशेष बैच है।
+
+- questionEn: Do you teach in Hindi?
+  questionHi: क्या आप हिंदी में पढ़ाते हैं?
+  answerEn: Yes. Teachers explain concepts in both Hindi and English so every student understands clearly.
+  answerHi: हाँ। शिक्षक हिंदी और अंग्रेज़ी दोनों में समझाते हैं ताकि हर छात्र अच्छे से समझ सके।
+
+- questionEn: I live outside Rewari. Can I join?
+  questionHi: मैं रेवाड़ी से बाहर रहता हूँ। क्या मैं जुड़ सकता हूँ?
+  answerEn: Yes. Many of our students come daily from nearby towns like Bawal, Dharuhera, Kosli, Jatusana and Kanina. Call us and we will guide you on batch timings that suit your travel.
+  answerHi: हाँ। हमारे कई छात्र बावल, धारूहेड़ा, कोसली, जाटूसाना और कनीना जैसे आसपास के शहरों से रोज़ आते हैं।
+
+- questionEn: Is hostel facility available for outstation students?
+  questionHi: क्या बाहर के छात्रों के लिए हॉस्टल सुविधा है?
+  answerEn: Yes. Hostel facility is available for students coming from other cities and towns. Call us for details on rooms, food and fees.
+  answerHi: हाँ। दूसरे शहरों से आने वाले छात्रों के लिए हॉस्टल सुविधा उपलब्ध है। कमरे, खाने और फीस की जानकारी के लिए कॉल करें।
+
+- questionEn: What are the class timings?
+  questionHi: क्लास का समय क्या है?
+  answerEn: The institute is open 9:00 AM – 8:00 PM. Batch timings depend on the course and class – call us for the current schedule.
+  answerHi: इंस्टीट्यूट सुबह 9 से रात 8 बजे तक खुला है। बैच का समय कोर्स और कक्षा पर निर्भर करता है।
+
+- questionEn: Do you prepare students for both JEE Main and JEE Advanced?
+  questionHi: क्या JEE Main और Advanced दोनों की तैयारी होती है?
+  answerEn: Yes. Classes cover the JEE Main syllabus completely, with additional Advanced-level problem solving for students aiming for IITs.
+  answerHi: हाँ। JEE Main का पूरा सिलेबस, और IIT के लिए Advanced स्तर के प्रश्नों का अभ्यास।
+  course: jee-coaching-rewari
+
+- questionEn: From which class should a student start foundation?
+  questionHi: फाउंडेशन किस कक्षा से शुरू करें?
+  answerEn: Class 8 or 9 is ideal, but students can start from class 6. Starting early makes JEE/NEET preparation in class 11–12 much easier.
+  answerHi: कक्षा 8 या 9 सबसे अच्छी है, लेकिन कक्षा 6 से भी शुरू कर सकते हैं।
+  course: iit-neet-foundation-course-rewari
+
+- questionEn: Is there a batch for NEET droppers / repeaters?
+  questionHi: क्या NEET ड्रॉपर / रिपीटर के लिए बैच है?
+  answerEn: Yes, we run a separate repeater batch focused on NCERT revision, test practice and improving weak areas.
+  answerHi: हाँ, NCERT रिवीज़न, टेस्ट प्रैक्टिस और कमज़ोर हिस्सों पर फोकस के साथ अलग रिपीटर बैच है।
+  course: neet-coaching-rewari
+
+- questionEn: Which class should my child be in to apply for Sainik School and Navodaya?
+  questionHi: सैनिक स्कूल और नवोदय के लिए बच्चा किस कक्षा में होना चाहिए?
+  answerEn: For Class 6 admission, the child should be studying in Class 5. For Class 9 admission (Sainik School / RMS), the child should be in Class 8. Age limits apply – check the official notification each year.
+  answerHi: कक्षा 6 में प्रवेश के लिए बच्चा कक्षा 5 में होना चाहिए। कक्षा 9 (सैनिक स्कूल / RMS) के लिए कक्षा 8 में। आयु सीमा लागू होती है – हर वर्ष आधिकारिक अधिसूचना देखें।
+  course: sainik-school-military-school-navodaya-coaching-rewari
+
+- questionEn: Can one batch prepare for Sainik School, RMS and Navodaya together?
+  questionHi: क्या एक ही बैच से सैनिक स्कूल, RMS और नवोदय की तैयारी हो सकती है?
+  answerEn: Yes. All three exams test Maths, reasoning/mental ability and language. Our batch covers the common syllabus and adds exam-specific practice (GK for AISSEE & RMS, the JNVST pattern for Navodaya).
+  answerHi: हाँ। तीनों परीक्षाओं में गणित, रीज़निंग और भाषा आते हैं। हमारा बैच साझा सिलेबस के साथ हर परीक्षा का अलग अभ्यास भी करवाता है।
+  course: sainik-school-military-school-navodaya-coaching-rewari
+
+- questionEn: Is coaching available in Hindi medium for these exams?
+  questionHi: क्या इन परीक्षाओं की कोचिंग हिंदी माध्यम में है?
+  answerEn: Yes. Classes and study material are available in both Hindi and English. AISSEE, RMS CET and JNVST can also be written in Hindi.
+  answerHi: हाँ। क्लास और स्टडी मटेरियल हिंदी और अंग्रेज़ी दोनों में उपलब्ध हैं। ये परीक्षाएँ हिंदी में भी दी जा सकती हैं।
+  course: sainik-school-military-school-navodaya-coaching-rewari

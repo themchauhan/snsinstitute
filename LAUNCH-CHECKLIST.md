@@ -30,21 +30,11 @@ Tick each box (`[ ]` → `[x]`) as you go. Steps are in order. Each phase depend
 
 ---
 
-## Phase 2 – Create the admin login (one time, on your computer)
+## Phase 2 – ~~Admin login (Keystatic)~~ – removed
 
-- [x] Create a file `.env.local` in the project folder containing:
-  ```
-  NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO=themchauhan/snsinstitute
-  ```
-- [x] Dev server running on **port 3010** (port 3000 is used by the cafecorp project)
-- [x] In Chrome open **http://127.0.0.1:3010/keystatic** → **Log in with GitHub** → setup page → **Create GitHub App**
-- [x] On GitHub, approve the app, then **Install** it on the `snsinstitute` repo
-- [x] Check that the project folder now has a `.env` file with these 4 values (**never share or commit it**):
-  - [x] `KEYSTATIC_GITHUB_CLIENT_ID`
-  - [x] `KEYSTATIC_GITHUB_CLIENT_SECRET`
-  - [x] `KEYSTATIC_SECRET`
-  - [x] `NEXT_PUBLIC_KEYSTATIC_GITHUB_APP_SLUG`
-- [x] Test it: reload localhost:3000/keystatic → **Sign in with GitHub** → you can see the content
+- [x] Not needed: Keystatic was removed on 2026-10-13. Content is updated by editing `content/` and pushing.
+- [ ] (Cleanup) Delete the unused Keystatic GitHub App: GitHub → Settings → Developer settings → GitHub Apps → your app → Advanced → **Delete**
+- [ ] (Cleanup) Delete the local `.env` file (it only holds the old Keystatic secrets)
 
 ---
 
@@ -67,11 +57,6 @@ Tick each box (`[ ]` → `[x]`) as you go. Steps are in order. Each phase depend
 - [ ] vercel.com → **Add New → Project** → Import `snsinstitute`
 - [ ] **Settings → Environment Variables** – add:
   - [ ] `NEXT_PUBLIC_SITE_URL` = `https://www.YOURDOMAIN.in`
-  - [ ] `NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO` = `YOUR-USERNAME/snsinstitute`
-  - [ ] `KEYSTATIC_GITHUB_CLIENT_ID` (from `.env`)
-  - [ ] `KEYSTATIC_GITHUB_CLIENT_SECRET` (from `.env`)
-  - [ ] `KEYSTATIC_SECRET` (from `.env`)
-  - [ ] `NEXT_PUBLIC_KEYSTATIC_GITHUB_APP_SLUG` (from `.env`)
   - [ ] `GMAIL_USER` = the sending Gmail address
   - [ ] `GMAIL_APP_PASSWORD` = the 16-character App Password
   - [ ] `ENQUIRY_EMAIL_TO` = who receives enquiries (comma-separate for several people)
@@ -80,13 +65,7 @@ Tick each box (`[ ]` → `[x]`) as you go. Steps are in order. Each phase depend
 
 ---
 
-## Phase 5 – Allow login on the live site
-
-- [ ] GitHub → **Settings → Developer settings → GitHub Apps** → your Keystatic app → **Callback URL** → add:
-  - [ ] `https://YOUR-PROJECT.vercel.app/api/keystatic/github/oauth/callback`
-  - [ ] `https://www.YOURDOMAIN.in/api/keystatic/github/oauth/callback`
-- [ ] Test: open `https://YOUR-PROJECT.vercel.app/keystatic` → sign in → edit something small → Save
-- [ ] Wait 1–2 minutes and check that the change is live
+## Phase 5 – ~~Allow login on the live site~~ – not needed (no admin panel)
 
 ---
 
@@ -101,28 +80,12 @@ Tick each box (`[ ]` → `[x]`) as you go. Steps are in order. Each phase depend
 
 ---
 
-## Phase 6.5 – Decide who OWNS the repo (do this before giving client access)
+## Phase 7 – Security & ownership
 
-- [ ] **Option A (simple):** keep repo in `themchauhan`, add client as a Collaborator (Write)
-- [ ] **Option B (recommended for handover):** create a GitHub **Organization** (e.g. `sns-institute`) →
-  - [ ] Transfer repo: repo → Settings → Danger zone → **Transfer** → the organization
-  - [ ] Transfer the Keystatic GitHub App: GitHub → Settings → Developer settings → GitHub Apps → your app → Advanced → **Transfer ownership** → the organization
-        _(the app is private, so it can only be installed where its owner is)_
-  - [ ] Re-install the app on the repo in the org; update `NEXT_PUBLIC_KEYSTATIC_GITHUB_REPO=sns-institute/snsinstitute` in Vercel → Redeploy
-  - [ ] Organization → Settings → Authentication security → **Require 2FA**
-  - [ ] Make the client an **Owner** of the org, and keep yourself as Owner too
-
-## Phase 7 – Security & editors
-
-- [ ] Turn on **2FA with an authenticator app** on your own GitHub account
-      (GitHub → Settings → Password and authentication → Enable 2FA)
-- [ ] (Recommended) Move the repo into a GitHub **Organization** and turn on **Require 2FA**
-- [ ] Add each staff editor: repo → **Settings → Collaborators → Add people** (Write access)
-  - [ ] Editor 1: `________________`
-  - [ ] Editor 2: `________________`
-- [ ] Make sure each editor has turned on 2FA
-- [ ] Each editor opens `https://www.YOURDOMAIN.in/keystatic` → **Log in with GitHub** → **Authorize** (first time only)
-- [ ] Send the client the "For staff" section of README.md (how to edit, save and undo)
+- [ ] Turn on **2FA with an authenticator app** on your GitHub account (Settings → Password and authentication)
+- [ ] Turn on 2FA on your **Vercel** account (Account Settings → Authentication)
+- [ ] Keep the repo **private**. Only you (the agency) can change content, as part of the maintenance plan.
+- [ ] Decide who owns the **domain** (GoDaddy) and **Vercel** billing – yours or the client's – and write it in the contract
 
 ---
 
@@ -151,7 +114,7 @@ Tick each box (`[ ]` → `[x]`) as you go. Steps are in order. Each phase depend
 
 ---
 
-## Phase 10 – Content to add (ongoing, via /keystatic)
+## Phase 10 – Content to add (ongoing – paste a block in the right `content/*.yaml` file, push)
 
 - [ ] Real **faculty photos** (replace the initials)
 - [ ] **2024–2026 results** with photos and categories (JEE / NEET / Board / Sainik…)

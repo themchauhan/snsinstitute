@@ -1,132 +1,108 @@
-{
-  "titleEn": "IIT & NEET Foundation",
-  "titleHi": "IIT और NEET फाउंडेशन",
-  "order": 3,
-  "icon": "rocket",
-  "classesEn": "Class 6 to 10",
-  "classesHi": "कक्षा 6 से 10",
-  "durationEn": "1 year (per class)",
-  "durationHi": "1 वर्ष (प्रति कक्षा)",
-  "summaryEn": "Build a strong base in Maths and Science early for JEE, NEET, NTSE and Olympiads – with school exam support.",
-  "summaryHi": "JEE, NEET, NTSE और ओलंपियाड के लिए गणित और विज्ञान की मज़बूत नींव – स्कूल परीक्षा के साथ।",
-  "highlights": [
-    {
-      "en": "Strong Maths & Science fundamentals",
-      "hi": "गणित और विज्ञान की मज़बूत नींव"
-    },
-    {
-      "en": "Mental ability & reasoning",
-      "hi": "मानसिक योग्यता और रीज़निंग"
-    },
-    {
-      "en": "NTSE / Olympiad preparation",
-      "hi": "NTSE / ओलंपियाड की तैयारी"
-    },
-    {
-      "en": "School exam & board support",
-      "hi": "स्कूल परीक्षा और बोर्ड सपोर्ट"
-    }
-  ],
-  "subjects": [
-    "Mathematics",
-    "Science",
-    "Mental Ability"
-  ],
-  "fee": "Call for fee details",
-  "bodyEn": "## Foundation course for class 6–10 in Rewari\n\nStudents who start early have a big advantage in JEE and NEET. Our foundation course builds **concept clarity in Maths and Science** from class 6 onwards, while making sure school marks also improve.\n\n- Concept-based learning instead of rote memorisation\n- Reasoning and mental ability practice\n- Preparation for NTSE, Olympiads and scholarship exams\n- Regular tests and parent updates\n",
-  "bodyHi": "",
-  "seo": {
-    "title": "IIT & NEET Foundation Course for Class 6–10 in Rewari | SNS",
-    "description": "Build a strong base for JEE, NEET and Olympiads from class 6 to 10, along with school exam preparation. Foundation batches in Rewari."
-  },
-  "image": null,
-  "whoFor": [
-    {
-      "en": "Class 6 to 10 students who want a strong base early",
-      "hi": "जल्दी मज़बूत नींव चाहने वाले कक्षा 6 से 10 के छात्र"
-    },
-    {
-      "en": "Students planning for JEE or NEET in the future",
-      "hi": "भविष्य में JEE या NEET की योजना बनाने वाले छात्र"
-    },
-    {
-      "en": "Students preparing for NTSE and Olympiads",
-      "hi": "NTSE और ओलंपियाड की तैयारी करने वाले छात्र"
-    }
-  ],
-  "syllabus": [
-    {
-      "subject": "Mathematics",
-      "topicsEn": "Number System\nAlgebra\nLinear Equations\nGeometry\nMensuration\nTrigonometry (basics)\nStatistics & Probability",
-      "topicsHi": ""
-    },
-    {
-      "subject": "Science",
-      "topicsEn": "Motion & Force\nWork & Energy\nLight & Sound\nElectricity & Magnetism\nAtoms & Molecules\nChemical Reactions\nCell & Tissues\nLife Processes",
-      "topicsHi": ""
-    },
-    {
-      "subject": "Mental Ability",
-      "topicsEn": "Series & Patterns\nAnalogy & Classification\nCoding–Decoding\nDirections & Ranking\nPuzzles",
-      "topicsHi": ""
-    }
-  ],
-  "features": [
-    {
-      "titleEn": "Printed study material",
-      "titleHi": "प्रिंटेड स्टडी मटेरियल",
-      "textEn": "Chapter-wise notes, formula sheets and practice questions prepared by our teachers.",
-      "textHi": "शिक्षकों द्वारा तैयार चैप्टर-वार नोट्स, फॉर्मूला शीट और प्रैक्टिस प्रश्न।"
-    },
-    {
-      "titleEn": "Weekly tests",
-      "titleHi": "साप्ताहिक टेस्ट",
-      "textEn": "Tests in the real exam pattern every week, followed by discussion of every mistake.",
-      "textHi": "हर हफ्ते असली परीक्षा पैटर्न पर टेस्ट, फिर हर गलती पर चर्चा।"
-    },
-    {
-      "titleEn": "Daily doubt sessions",
-      "titleHi": "रोज़ डाउट सेशन",
-      "textEn": "Ask any doubt after class – teachers are available every day.",
-      "textHi": "क्लास के बाद कोई भी डाउट पूछें – शिक्षक रोज़ उपलब्ध।"
-    },
-    {
-      "titleEn": "Progress reports for parents",
-      "titleHi": "अभिभावकों के लिए प्रगति रिपोर्ट",
-      "textEn": "Parents stay updated on test scores, attendance and areas to improve.",
-      "textHi": "टेस्ट स्कोर, उपस्थिति और सुधार के बिंदुओं की जानकारी।"
-    },
-    {
-      "titleEn": "Small batches",
-      "titleHi": "छोटे बैच",
-      "textEn": "Limited students per batch so every student gets attention.",
-      "textHi": "हर बैच में सीमित छात्र, ताकि सब पर ध्यान दिया जा सके।"
-    }
-  ],
-  "roadmap": [
-    {
-      "titleEn": "Strengthen basics",
-      "titleHi": "बेसिक मज़बूत करें",
-      "textEn": "School syllabus explained with concepts, not rote learning.",
-      "textHi": "रटने के बजाय कॉन्सेप्ट के साथ स्कूल सिलेबस।"
-    },
-    {
-      "titleEn": "Apply concepts",
-      "titleHi": "कॉन्सेप्ट लागू करें",
-      "textEn": "Higher-order questions that build thinking skills.",
-      "textHi": "सोचने की क्षमता बढ़ाने वाले उच्च स्तर के प्रश्न।"
-    },
-    {
-      "titleEn": "Olympiad & NTSE practice",
-      "titleHi": "ओलंपियाड और NTSE अभ्यास",
-      "textEn": "Practice papers for competitive exams.",
-      "textHi": "प्रतियोगी परीक्षाओं के प्रैक्टिस पेपर।"
-    },
-    {
-      "titleEn": "Test & improve",
-      "titleHi": "टेस्ट और सुधार",
-      "textEn": "Regular tests and feedback for steady improvement.",
-      "textHi": "लगातार सुधार के लिए नियमित टेस्ट और फीडबैक।"
-    }
-  ]
-}
+titleEn: IIT & NEET Foundation
+titleHi: IIT और NEET फाउंडेशन
+order: 3
+icon: rocket
+classesEn: Class 6 to 10
+classesHi: कक्षा 6 से 10
+durationEn: 1 year (per class)
+durationHi: 1 वर्ष (प्रति कक्षा)
+summaryEn: Build a strong base in Maths and Science early for JEE, NEET, NTSE and Olympiads – with school exam support.
+summaryHi: JEE, NEET, NTSE और ओलंपियाड के लिए गणित और विज्ञान की मज़बूत नींव – स्कूल परीक्षा के साथ।
+highlights:
+  - en: Strong Maths & Science fundamentals
+    hi: गणित और विज्ञान की मज़बूत नींव
+  - en: Mental ability & reasoning
+    hi: मानसिक योग्यता और रीज़निंग
+  - en: NTSE / Olympiad preparation
+    hi: NTSE / ओलंपियाड की तैयारी
+  - en: School exam & board support
+    hi: स्कूल परीक्षा और बोर्ड सपोर्ट
+subjects:
+  - Mathematics
+  - Science
+  - Mental Ability
+fee: Call for fee details
+bodyEn: |
+  ## Foundation course for class 6–10 in Rewari
+
+  Students who start early have a big advantage in JEE and NEET. Our foundation course builds **concept clarity in Maths and Science** from class 6 onwards, while making sure school marks also improve.
+
+  - Concept-based learning instead of rote memorisation
+  - Reasoning and mental ability practice
+  - Preparation for NTSE, Olympiads and scholarship exams
+  - Regular tests and parent updates
+seo:
+  title: IIT & NEET Foundation Course for Class 6–10 in Rewari | SNS
+  description: Build a strong base for JEE, NEET and Olympiads from class 6 to 10, along with school exam preparation. Foundation batches in Rewari.
+whoFor:
+  - en: Class 6 to 10 students who want a strong base early
+    hi: जल्दी मज़बूत नींव चाहने वाले कक्षा 6 से 10 के छात्र
+  - en: Students planning for JEE or NEET in the future
+    hi: भविष्य में JEE या NEET की योजना बनाने वाले छात्र
+  - en: Students preparing for NTSE and Olympiads
+    hi: NTSE और ओलंपियाड की तैयारी करने वाले छात्र
+syllabus:
+  - subject: Mathematics
+    topicsEn: |-
+      Number System
+      Algebra
+      Linear Equations
+      Geometry
+      Mensuration
+      Trigonometry (basics)
+      Statistics & Probability
+  - subject: Science
+    topicsEn: |-
+      Motion & Force
+      Work & Energy
+      Light & Sound
+      Electricity & Magnetism
+      Atoms & Molecules
+      Chemical Reactions
+      Cell & Tissues
+      Life Processes
+  - subject: Mental Ability
+    topicsEn: |-
+      Series & Patterns
+      Analogy & Classification
+      Coding–Decoding
+      Directions & Ranking
+      Puzzles
+features:
+  - titleEn: Printed study material
+    titleHi: प्रिंटेड स्टडी मटेरियल
+    textEn: Chapter-wise notes, formula sheets and practice questions prepared by our teachers.
+    textHi: शिक्षकों द्वारा तैयार चैप्टर-वार नोट्स, फॉर्मूला शीट और प्रैक्टिस प्रश्न।
+  - titleEn: Weekly tests
+    titleHi: साप्ताहिक टेस्ट
+    textEn: Tests in the real exam pattern every week, followed by discussion of every mistake.
+    textHi: हर हफ्ते असली परीक्षा पैटर्न पर टेस्ट, फिर हर गलती पर चर्चा।
+  - titleEn: Daily doubt sessions
+    titleHi: रोज़ डाउट सेशन
+    textEn: Ask any doubt after class – teachers are available every day.
+    textHi: क्लास के बाद कोई भी डाउट पूछें – शिक्षक रोज़ उपलब्ध।
+  - titleEn: Progress reports for parents
+    titleHi: अभिभावकों के लिए प्रगति रिपोर्ट
+    textEn: Parents stay updated on test scores, attendance and areas to improve.
+    textHi: टेस्ट स्कोर, उपस्थिति और सुधार के बिंदुओं की जानकारी।
+  - titleEn: Small batches
+    titleHi: छोटे बैच
+    textEn: Limited students per batch so every student gets attention.
+    textHi: हर बैच में सीमित छात्र, ताकि सब पर ध्यान दिया जा सके।
+roadmap:
+  - titleEn: Strengthen basics
+    titleHi: बेसिक मज़बूत करें
+    textEn: School syllabus explained with concepts, not rote learning.
+    textHi: रटने के बजाय कॉन्सेप्ट के साथ स्कूल सिलेबस।
+  - titleEn: Apply concepts
+    titleHi: कॉन्सेप्ट लागू करें
+    textEn: Higher-order questions that build thinking skills.
+    textHi: सोचने की क्षमता बढ़ाने वाले उच्च स्तर के प्रश्न।
+  - titleEn: Olympiad & NTSE practice
+    titleHi: ओलंपियाड और NTSE अभ्यास
+    textEn: Practice papers for competitive exams.
+    textHi: प्रतियोगी परीक्षाओं के प्रैक्टिस पेपर।
+  - titleEn: Test & improve
+    titleHi: टेस्ट और सुधार
+    textEn: Regular tests and feedback for steady improvement.
+    textHi: लगातार सुधार के लिए नियमित टेस्ट और फीडबैक।

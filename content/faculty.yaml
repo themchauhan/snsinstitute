@@ -1,0 +1,135 @@
+# FACULTY
+# Order in this file = order on the site. "leader: true" shows the person in the Leadership section.
+# "active: false" hides someone without deleting them.
+#
+# - name: Teacher Name
+#   subject: Physics
+#   qualification: M.Sc, B.Ed
+#   experience: 5+ years
+#   roleEn: Physics Faculty
+#   roleHi: भौतिकी शिक्षक
+#   teaches: [JEE, NEET, Class 11–12]
+#   bioEn: Short introduction...
+#   bioHi: ...
+#   highlights:
+#     - en: Something notable
+#       hi: ...
+#   photo: /images/faculty/teacher-name.jpg   # put the file in public/images/faculty/
+
+- name: Amit Bawalia
+  subject: Mathematics
+  qualification: B.Sc (Hons) – University of Delhi, M.Sc – IIT Delhi
+  roleEn: Founder & Mathematics Faculty
+  roleHi: संस्थापक और गणित शिक्षक
+  leader: false
+  teaches:
+    - JEE
+    - Class 11–12
+    - B.Sc / M.Sc Maths
+    - IIT JAM
+  bioEn: An IIT Delhi alumnus, Amit Bawalia founded SNS Institute to bring big-city quality coaching to the students of Rewari. He teaches Mathematics and guides students for JEE, IIT JAM and M.Sc entrance exams.
+  bioHi: IIT दिल्ली के पूर्व छात्र अमित बावलिया ने रेवाड़ी के छात्रों को बड़े शहरों जैसी कोचिंग देने के लिए SNS इंस्टीट्यूट की स्थापना की। वे गणित पढ़ाते हैं और JEE, IIT JAM और M.Sc प्रवेश परीक्षाओं के लिए मार्गदर्शन करते हैं।
+  highlights:
+    - en: M.Sc from IIT Delhi
+      hi: IIT दिल्ली से M.Sc
+    - en: B.Sc (Hons) from University of Delhi
+      hi: दिल्ली विश्वविद्यालय से B.Sc (ऑनर्स)
+    - en: Guides IIT JAM & M.Sc entrance aspirants
+      hi: IIT JAM और M.Sc प्रवेश परीक्षा का मार्गदर्शन
+  active: false
+
+- name: Ankur Sir
+  subject: Biology
+  qualification: B.Sc, M.Sc, B.Ed
+  experience: 10+ years
+  leader: true
+  highlights: []
+  roleEn: Director & Biology Faculty
+  roleHi: निदेशक और जीव विज्ञान शिक्षक
+  teaches:
+    - NEET
+    - Class 11–12
+    - Class 9–10 Science
+  bioEn: Ankur Sir leads SNS Institute as Director and teaches Biology. He focuses on NCERT, clear diagrams and easy memory techniques, and personally guides students and parents on courses, batches and preparation strategy.
+  bioHi: अंकुर सर SNS इंस्टीट्यूट के निदेशक हैं और जीव विज्ञान पढ़ाते हैं। वे NCERT, डायग्राम और याद रखने की आसान तकनीकों पर ज़ोर देते हैं और छात्रों व अभिभावकों को कोर्स, बैच और तैयारी की रणनीति पर व्यक्तिगत मार्गदर्शन देते हैं।
+  active: true
+
+- name: Manoj Sir
+  subject: Chemistry
+  qualification: B.Sc, M.Sc, B.Ed
+  experience: 7+ years
+  leader: false
+  highlights: []
+  roleEn: Chemistry Faculty
+  roleHi: रसायन शिक्षक
+  teaches:
+    - JEE
+    - NEET
+    - Class 11–12
+  bioEn: Manoj Sir makes Chemistry simple – from reaction mechanisms in Organic to numericals in Physical Chemistry – with regular practice and short tricks.
+  bioHi: मनोज सर ऑर्गेनिक से फिज़िकल केमिस्ट्री तक, नियमित अभ्यास और आसान ट्रिक्स के साथ रसायन को सरल बनाते हैं।
+  active: true
+
+- name: Mrs. Shallu
+  subject: Physics
+  qualification: M.Sc, HTET, CTET, REET
+  experience: 5+ years
+  leader: false
+  highlights: []
+  roleEn: Physics Faculty
+  roleHi: भौतिकी शिक्षिका
+  teaches:
+    - Class 9–12
+    - NEET
+    - Foundation
+  bioEn: Mrs. Shallu builds Physics from the basics, using real-life examples so that formulas make sense and numericals become easy.
+  bioHi: श्रीमती शालू वास्तविक जीवन के उदाहरणों के साथ भौतिकी को बेसिक से पढ़ाती हैं।
+  active: true
+
+- name: Dr. Pooja Soni
+  subject: Mathematics
+  qualification: B.Sc, M.Sc, Ph.D, CSIR NET
+  experience: 4+ years
+  leader: false
+  highlights: []
+  roleEn: Mathematics Faculty
+  roleHi: गणित शिक्षिका
+  teaches:
+    - JEE
+    - Class 9–12
+    - Foundation
+  bioEn: Dr. Pooja Soni (Ph.D, CSIR NET) teaches Mathematics step by step, with plenty of practice so that students solve problems with speed and accuracy.
+  bioHi: डॉ. पूजा सोनी (Ph.D, CSIR NET) गणित को स्टेप-बाय-स्टेप, भरपूर अभ्यास के साथ पढ़ाती हैं।
+  active: true
+
+- name: Mrs. Manju Yadav
+  subject: English
+  qualification: MA English, MA Pol. Science, M.Ed, CTET, RTET
+  experience: 6+ years
+  leader: false
+  highlights: []
+  roleEn: English Faculty
+  roleHi: अंग्रेज़ी शिक्षिका
+  teaches:
+    - Class 5–12
+    - Board exams
+    - CUET
+  bioEn: Mrs. Manju Yadav helps students improve grammar, writing and comprehension for school, board and entrance exams.
+  bioHi: श्रीमती मंजू यादव स्कूल, बोर्ड और प्रवेश परीक्षाओं के लिए ग्रामर, लेखन और समझ सुधारने में मदद करती हैं।
+  active: true
+
+- name: Arjun Sir
+  subject: Reasoning
+  qualification: HTET, CTET, REET
+  experience: 4+ years
+  leader: false
+  highlights: []
+  roleEn: Reasoning Faculty
+  roleHi: रीज़निंग शिक्षक
+  teaches:
+    - Foundation
+    - NTSE / Olympiad
+    - CUET
+  bioEn: Arjun Sir teaches reasoning and mental ability with puzzles and shortcuts that sharpen logical thinking.
+  bioHi: अर्जुन सर पहेलियों और शॉर्टकट्स के साथ रीज़निंग और मानसिक योग्यता पढ़ाते हैं।
+  active: true
